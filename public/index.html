@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Chatbot RAG</title>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Quicksand', sans-serif;
+      background: linear-gradient(135deg, #1c1c1c, #2c2c2c);
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #f0f0f0;
+    }
+
+    #chat-container {
+      width: 95%;
+      max-width: 600px;
+      height: 85vh;
+      display: flex;
+      flex-direction: column;
+      background: #1e1e1e;
+      border-radius: 20px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+      overflow: hidden;
+    }
+
+    #chat-box {
+      flex-grow: 1;
+      padding: 20px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      scrollbar-width: thin;
+      scrollbar-color: #444 #1e1e1e;
+    }
+
+    #chat-box::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    #chat-box::-webkit-scrollbar-thumb {
+      background-color: #444;
+      border-radius: 3px;
+    }
+
+    .message {
+      max-width: 75%;
+      padding: 12px 16px;
+      border-radius: 18px;
+      font-size: 15px;
+      line-height: 1.4;
+      word-wrap: break-word;
+      animation: fadeInSlide 0.3s ease-out;
+    }
+
+    .user-message {
+      background-color: #007bff;
+      color: white;
+      align-self: flex-end;
+      border-bottom-right-radius: 4px;
+    }
+
+    .bot-message {
+      background-color: #333;
+      color: #ddd;
+      align-self: flex-start;
+      border-bottom-left-radius: 4px;
+      position: relative;
+    }
+
+    .bot-message.typing::after {
+      content: '⌛';
+      position: absolute;
+      right: -20px;
+      animation: blink 1s infinite;
+    }
+
+    #input-area {
+      display: flex;
+      padding: 15px;
+      border-top: 1px solid #333;
+      background: #262626;
+    }
+
+    #user-input {
+      flex-grow: 1;
+      padding: 12px;
+      border: 1px solid #444;
+      border-radius: 20px;
+      background: #1c1c1c;
+      color: #f0f0f0;
+      font-size: 15px;
+      outline: none;
+    }
+
+    #send-button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 50%;
+      width: 44px;
+      height: 44px;
+      margin-left: 10px;
+      font-size: 20px;
+      cursor: pointer;
+      box-shadow: 0 0 10px #007bff80;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    #send-button:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 12px #009dff;
+    }
+
+    @keyframes fadeInSlide {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+  </style>
+</head>
+<body>
+  <div id="chat-container">
+    <div id="chat-box">
+      <div class="message bot-message">🌙 ¡Hola! Soy tu bot nocturno favorito. ¿Qué te gustaría saber?</div>
+    </div>
+    <div id="input-area">
+      <input type="text" id="user-input" placeholder="Escribí tu pregunta..."/>
+      <button id="send-button">→</button>
+    </div>
+  </div>
+
+
+  <script>
+    const chatBox = document.getElementById('chat-box');
+    const userInput = document.getElementById('user-input');
+    const sendButton = document.getElementById('send-button');
+
+    // Mantenemos tu lógica de eventos, ¡es perfecta!
+    sendButton.addEventListener('click', sendMessage);
+    userInput.addEventListener('keypress', e => {
+      if (e.key === 'Enter') sendMessage();
+    });
+
+    function sendMessage() {
+      const text = userInput.value.trim();
+      if (!text) return;
+
+      addMessage(text, 'user-message');
+      userInput.value = '';
+      getBotResponse(text); // En lugar de simular, llamamos a la función real.
+    }
+
+    function addMessage(text, className) {
+      const msg = document.createElement('div');
+      msg.className = `message ${className}`;
+      msg.textContent = text;
+      chatBox.appendChild(msg);
+      chatBox.scrollTop = chatBox.scrollHeight;
+      return msg; // Devolvemos el mensaje para poder modificarlo después.
+    }
+
+    // --- ¡LA NUEVA LÓGICA DE CONEXIÓN! ---
+    async function getBotResponse(userMessage) {
+      // 1. Muestra un mensaje temporal de "Pensando..."
+      const thinkingMessage = addMessage("...", 'bot-message typing');
+
+      try {
+        // 2. Llama a nuestro servidor en el endpoint '/chat'
+        const response = await fetch('/chat', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          // Enviamos la pregunta del usuario en el cuerpo de la petición
+          body: JSON.stringify({ message: userMessage }),
+        });
+
+        if (!response.ok) {
+          throw new Error('La respuesta del servidor no fue OK');
+        }
+
+        const data = await response.json();
+        
+        // 3. Reemplaza el "Pensando..." con la respuesta real del bot.
+        thinkingMessage.textContent = data.reply;
+        thinkingMessage.classList.remove('typing');
+
+      } catch (error) {
+        console.error('Error al contactar al servidor:', error);
+        thinkingMessage.textContent = 'Lo siento, hubo un error al conectar con el servidor. Intenta de nuevo.';
+        thinkingMessage.classList.remove('typing');
+      }
+    }
+  </script>
+
+  
+</body>
+</html>
