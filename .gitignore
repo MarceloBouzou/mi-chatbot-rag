@@ -1,0 +1,6 @@
+# Dependencias de Node (pueden pesar cientos de megas y se reinstalan solas)
+node_modules/
+__otrosarchivos/
+
+# Archivo de variables de entorno (¡Contiene tu API Key secreta!)
+.env
