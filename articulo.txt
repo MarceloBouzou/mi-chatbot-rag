@@ -1,443 +1,335 @@
-Maniac Mansion es un videojuego de aventura
-gráfica desarrollado por Lucasfilm Games en 1987.
-Inicialmente lanzado para Commodore 64 y Apple
-II, fue el primer videojuego que Lucasfilm Games
-lanzó al mercado. El juego sigue las aventuras del
-joven Dave Miller en una mansión mientras intenta
-rescatar a su novia de un científico loco controlado
-por un meteorito que colisionó cerca de la mansión
-veinte años atrás. El juego fue concebido en 1985
-por Ron Gilbert y Gary Winnick, quienes se
-inspiraron para el desarrollo de la historia en los
-clichés del cine clase B y las películas de terror más
-algunos elementos de humor. Los personajes del
-juego fueron desarrollados sobre la base de
-personajes del cómic, el cine, revistas de terror o
-personas que ellos conocían. El diseño de la
-mansión está basado en la casa principal del
-Rancho Skywalker.
-Maniac Mansion utiliza un motor creado
-específicamente para el juego llamado SCUMM
-("Script Creation Utility for Maniac Mansion"), que
-supuso una revolución en las interfaces de juego
-para aventuras gráficas de su época y que fue muy
-utilizado por Lucas en posteriores desarrollos de
-aventuras gráficas.
-Maniac Mansion tiene lugar en la mansión de la
-familia Edison; ocupada por el Dr. Fred, la
-enfermera Edna y su hijo Ed Weird. Viviendo con
-los Edison hay dos grandes tentáculos sin cuerpo,
-uno morado y el otro verde creados como fruto de
-un experimento genético.
-Durante la secuencia de introducción del juego se
-muestra cómo un meteorito se estrella cerca de la
-mansión veinte años atrás. Este simbionte toma el
-control de la familia y causa que el Dr. Fred
-comience a succionar cerebros humanos para usar
-en sus experimentos, mientras su familia le anima y
-le apoya en estos esfuerzos.
-Un día, Sandy Pantz, novia de David Miller (el
-protagonista), desaparece sin dejar rastro y éste
-sospecha que el Dr. Fred la ha secuestrado. Después
-de la escena introductoria del juego, Dave y dos de
-sus compañeros se preparan para entrar a la
-mansión y rescatar a Sandy. El juego comienza con
-una pantalla de selección en la que se debe escoger
-dos de los seis personajes disponibles para
-acompañar a Dave (esta selección condicionará el
-desarrollo y desenlace de la historia).
-Maniac Mansion es un juego de aventura gráfica
-con una interfaz de apunta y haz clic para guiar a
-los personajes a través de un mundo en dos dimensiones en el
-que deberá resolver acertijos. Los jugadores pueden
-seleccionar quince comandos diferentes con este esquema;
-por ejemplo “Walk to” para mover los personajes, “New Kid”
-para alternar entre los tres personajes y “Pick up” para
-recoger objetos. Cada personaje posee habilidades únicas, por
-ejemplo, Syd y Razor pueden tocar instrumentos musicales;
-mientras que Bernard puede reparar electrodomésticos. El
-juego se puede completar con cualquier combinación de
-personajes. Debido a que muchos acertijos solo se pueden
-resolver con habilidades específicas, el juego ofrecerá
-distintos desenlaces dependiendo de los personajes escogidos
-por el jugador.
-El modo de juego es interrumpido regularmente por “cutscenes” (término acuñado por Ron Gilbert), que
-avanzan en la historia y muestran al jugador las acciones de los personajes no jugables. Incluyendo al
-tentáculo verde, los habitantes de la mansión son una amenaza y meterán a los personajes jugables al
-calabozo - o intentaran matarles - si los ven. También es posible que el propio jugador cause la muerte de
-alguno de sus personajes. En cualquier caso, si uno de los personajes muere, el jugador podrá escoger
-entre los restantes. Finalmente, el juego termina cuando todos los personajes mueren. Maniac Mansion
-tiene cinco posibles finales exitosos, que dependerán de la combinación de personajes que realice el
-jugador, quiénes sobrevivan y que sucesos generen.
-Maniac Mansion fue concebido en 1985, cuando Lucasfilm Games asignó a sus empleados Ron Gilbert y
-Gary Winnick la tarea de crear un videojuego original. Gilbert había sido contratado por Noah Falstein
-para que trabajara en Lucasfilm Games por tres meses programando el juego Koronis Rift. Mientras
-tanto, Winnick se encontraba trabajando en Labyrinth: The Computer Game. Al unirse para el desarrolle este proyecto, Gilbert y Winnick descubrieron que compartían un
-humor similar e iguales gustos sobre cine y televisión. Para
-completar el proyecto, Gilbert fue contratado a tiempo completo. El
-éxito obtenido por este videojuego y sus antecesores es atribuido
-por Gilbert al hecho de que los directivos de Lucasfilm Games
-realizaron muy poca supervisión al proceso de desarrollo. Aunque
-Gilbert y Winnick son los diseñadores y coescritores principales,
-ellos trabajaron por separado en el arte y la programación del juego
-respectivamente.
-En la lluvia de ideas realizada para definir la historia del juego, salió
-a flote el amor que ellos sentían hacia el cine B y decidieron crear
-un videojuego de una comedia de terror ambientado en una casa
-embrujada. Winnick llamó a esta idea “una ridícula película de
-terror adolescente”, donde un grupo de jóvenes son sacrificados uno
-por uno mientras intentan escapar de la casa. Este dúo creativo hizo
-uso de clichés de cintas de terror populares como Friday the 13th y
-A Nightmare on Elm Street para configurar el juego.
-Maniac Mansion destacaba por tener múltiples finales alternativos, dependiendo de los personajes
-escogidos (y de los que logren sobrevivir), y de lo que hagan los personajes a lo largo del juego. Algo
-inusual en los juegos de LucasArts es la posibilidad de que los personajes mueran (después de una serie
-de grandes errores por parte del jugador): si se produce la pérdida de todos los personajes pierdes el
-juego. También existe un final alternativo si durante el juego muere Dave, el novio de Sandy.
-El juego tuvo cierta notoriedad por sus giros en el guion, y golpes de humor. Uno de sus chistes más
-famosos es el de la motosierra sin gasolina, que marcó referencia en los juegos de LucasArts, que
-apareció por primera vez en el segundo juego que también usaba el motor SCUMM, Zak McKracken and
-the Alien Mindbenders. Consistía en que aparecía gasolina solo para motosierras, pero no había
-motosierras. Además, en una posterior versión de Maniac Mansion, hay un póster del juego Zack
-McKracken en la sala de juegos recreativos (o sala de arcade), en el que se puede leer "Me pregunto...
-¿para qué sirve la gasolina en Marte?". Otro chiste hace referencia a la escalera que hay en la biblioteca
-(con un cartel que pone escalera fuera de servicio). Aparentemente, es un puzle del juego, pero en
-realidad no existe modo alguno de pasar por la escalera.
-Otra curiosidad es que el juego completo está contenido en su secuela Day of the Tentacle, accediendo a
-él desde el ordenador del dormitorio del extraño Ed.
-Maniac Mansion fue el primer juego en el que apareció Chuck the Plant (está en la biblioteca); Chuck
-aparece en otras dos aventuras gráficas de LucasArts y en varios juegos de otras empresas.
-
-Personajes del juego
-A diferencia de la mayoría de las aventuras gráficas, Maniac Mansion tiene varios posibles personajes
-con los que puedes jugar. Controlarás a Dave y a otros dos personajes, a escoger entre un grupo de seis,
-cada uno de ellos con sus propias habilidades.
-Dave Miller es el protagonista del juego, ya que es el novio de Sandy. Es el personaje que
-juega la mayor parte del tiempo a pesar de no poseer ningún talento en especial. Él será el
-único personaje fijo en el equipo de tres.
-Deberás escoger otros dos personajes entre los siguientes para completar tu equipo.
-Bernard Bernoulli, nerd; su habilidad es reparar todo tipo de objetos electrónicos
-(necesarios para algunos acertijos), aunque huye fácilmente del tentáculo verde, salvo que
-uno de sus amigos le acompañe. Pese a ser un personaje opcional al igual que los otros,
-su presencia es significativa, ya que es el personaje principal de la secuela de este juego:
-Maniac Mansion 2: Day of the Tentacle. Es un personaje que permite avanzar rápidamente
-en el juego.
-Razor es la guapa cabecilla de la banda de punk rock Razor and the SCUMMetters. Sabe
-mucho de música y es capaz de tocar muchos instrumentos. Está basada en la novia de
-Gary Winnick, uno de los diseñadores del juego.3 Algunas fuentes dicen que está basada
-en la cantante/compositora Tori Amos, particularmente en la carátula de Y Kant Tori Read,
-un disco de su fracasado grupo Y Kant Tori Read. Hay una referencia al grupo The
-SCUMMettes en Zak McKracken
-Wendy Wells es una aspirante a novelista con talento para escribir.
-4
-Jeff Woodie es un surfista. Sin embargo, lo único que puede hacer es reparar el teléfono,
-algo que Bernard también puede hacer.
-Syd es un músico de New Wave. Además es un viejo amigo de Razor que tiene las mismas
-habilidades musicales que ella.
-Michael F. Stoppe es el fotógrafo del periódico del instituto. Es uno de los primeros
-personajes de etnia negra aparecidos en un videojuego.
-Además de los personajes jugables, existe un número de coloridos personajes (metafórica y literalmente)
-no jugables que viven en la mansión como el Doctor Fred, Sandy y otros más. Los personajes no jugables
-en ocasiones serán tus enemigos y en otras tus aliados dependiendo de la situación.
-Enfermera Edna: una lujuriosa y horrible enfermera, además de ser la esposa del Doctor
-Fred. Cuando uno de los chicos es capturado por ella, lo encierra en la mazmorra.
-Ed el raro: es el hijo de Fred y Edna, un maniático paramilitar con una obsesión hacia su
-hámster. Si durante el juego le robas su hámster y lo calientas en el microondas este
-explotará; si le devuelves los restos, Fred matará a tu personaje. En posteriores versiones,
-en particular la versión para NES, no es posible introducir el hámster en el microondas ya
-que el juego fue censurado. Si ayudas a Ed en sus planes, ayudará a pasar al Tentáculo
-Púrpura en el laboratorio del Dr. Fred.
-Primo muerto Ted: primo de Edna, es una momia con su propio gimnasio, una colección
-de revistas eróticas y un sarcófago equipado con televisión.
-Tentáculo verde y Tentáculo púrpura: un par de tentáculos andantes. Verde aspira a ser
-músico de rock and roll y es maníaco depresivo. Si le consigues un contrato con una
-Pproductora musical ayuda a pasar al tentáculo púrpura en el laboratorio. Púrpura es el
-hombre de confianza del Dr. Fred, aunque si le muestras la placa del policía galáctico
-traicionará al Dr. Fred, diciendo que este lo obligó a actuar.
-Meteoro púrpura: es un malvado e inteligente meteorito del espacio exterior. Al final del
-juego se revela que ha coaccionado al Dr. Fred hasta llevarlo a una vida de villanía
-mediante control mental. Dependiendo de cómo el jugador trate al meteorito tendremos los
-distintos finales del juego y entre ellos estará el de su muerte, el de una cadena perpetua
-por parte de la policía extraterrestre, o una aparición en un show nocturno similar a una
-parodia de David Letterman.
-Dr. Fred: científico maníaco obsesionado con los cerebros. Precisamente, al principio del
-juego dice que ha secuestrado la novia de Dave para absorberle sus "preciosos sesos" y
-convertirla en un zombí.
-El juego fue originalmente lanzado para Commodore 64, y debido a que usaba el motor gráfico SCUMM,
-pudo de manera relativamente rápida ser portado a otras plataformas. El líder del proyecto fue Ron
-Gilbert quien también lo diseñó junto a Gary Winnick. El guion fue escrito también por Ron Gilbert y
-David Fox. También se publicaron versiones para los ordenadores Apple II, Amiga, y Atari ST.
-En 1988, salió al mercado una versión para PC gráficos EGA (aunque era también compatible con
-gráficos CGA y también con Hércules (dos colores).
-En 1988, Jaleco hizo una versión de Maniac Mansion para la Famicom en Japón.
-En 1989, se comercializó una versión mejorada de Maniac Mansion con gráficos EGA y mayor
-resolución para PC.
-En 1990, Lucasfilm publicó en Norteamérica y Europa una versión para NES fuertemente censurada, con
-el propósito de acatar la política de Nintendo, por ejemplo cambiaron la frase "te absorberé el cerebro"
-por "te quitaré tu cerebro" y se eliminó una estatua desnuda semejante al Amanecer de Miguel Ángel,
-entre otras cosas. Sin embargo, Nintendo inicialmente pasó por alto la posibilidad de calentar el hámster
-en el microondas hasta la muerte. Muchos cientos de copias de Maniac Mansion fueron vendidas antes de
-que Nintendo se diera cuenta y pidiera su eliminación. También en la versión del juego para NES, un bug
-de programación permitía seguir utilizando el personaje como si de un "fantasma" se tratara. El sprite del
-personaje no aparece visible, pero puedes seguir moviéndolo por la pantalla, siendo posible finalizar el
-juego con este "personaje fantasma". Dicha versión solucionaba algunos bugs del original en su
-momento, que impedían terminar el juego.
-A principios de los 90, el programador Douglas Crockford, responsable del versionado del juego para
-NES de Nintendo, escribió un artículo titulado The Expurgation of Maniac Mansion (http://www.crockfor
-d.com/wrrrld/maniac.html), donde detalla sus batallas con Nintendo durante el proceso de conversión del
-juego. A lo largo de los primeros años de los 90, el artículo se extendió por medio de fotocopias y correos
-electrónicos masivos, finalmente estuvo ampliamente disponible en varios sitios webs. En el artículo,
-Crockford detalla la discutiblemente absurda política mantenida por Nintendo a principios de los 90
-respecto a sus videojuegos; esencialmente, la política mantenía que cualquiera se podría ofender de
-alguna manera (como por ejemplo con referencias religiosas, lenguaje malsonante, violencia o sexualidad)
-Jaleco relanzó una versión sin censura del juego para Famicom en Japón dos años antes; esta versión sin
-embargo presentaba gráficos inmensamente inferiores, con fondos simplificados y sin scrolling (muchas
-habitaciones, que presentaban elaborados detalles, como fotografías y papel pintado en las paredes en las
-versiones occidentales del juego, aquí eran presentadas como pantallas con colores sólidos y carentes de
-detalles, exceptuando los objetos necesarios para completar el juego) y personajes redibujados de un
-modo más caricaturesco, al estilo superdeformado (aparentemente como un intento para hacer el juego
-más agradable para el público japonés; muchos de los personajes estaban acabados con un aspecto
-parecido a bloques con caras). Debido a la naturaleza del mercado de Famicom en Japón, Jaleco era un
-fabricante de cartuchos de videojuegos, y la censura de Nintendo nunca fue necesaria. Por otra parte, esta
-versión usaba contraseñas para guardar la partida excesivamente largas, de 104 caracteres de longitud.
-Como curiosidad, debido a limitaciones técnicas del hardware de la época, en la versión original del
-juego (que utilizaba gráficos CGA de 4 colores) tanto el Dr. Fred como su familia se muestran con la piel
-color naranja, sin embargo en ediciones posteriores del juego (que usaban tarjetas gráficas EGA y VGA
-de 16 y 256 colores respectivamente) se rediseñaron los personajes cambiándoles el color de piel naranja
-a azul celeste.
-En contraste con juegos anteriores, donde Lucasfilm Games tenía un solo desarrollador y utilizaba
-editores externos; la empresa comenzó a tomar el rol de editor en este videojuego. Lucasfilm Games
-contrató a Ken Macklin, quien a su vez contrató a Winnick; quien diseñó la portada del juego. Gilbert y
-Winnick colaboraron con el departamento de marketing para el diseño de la contraportada. Los dos
-también crearon e insertaron huevos de Pascua, historia de fondo y las bromas.
-Después de alrededor de veinticuatro meses de desarrollo, el juego debutó en el Consumer Electronics
-Show de Chicago en 1987. El juego fue lanzado inicialmente al mercado para el Commodore 64 y el
-Apple II en octubre de 1987. Después de que la empresa Toys "R" Us se quejara por la presencia de la
-palabra “lujuria” en la contraportada, se retiró el juego de sus estanterías hasta que Lucasfilm Games la
-modificó.
-Maniac Mansión fue bien recibido por la crítica, la cual
-comparó el videojuego con un gran número de
-películas. Paul Summer, Julian Rignal y Steve Jarralt
-realizaron reseñas en las revistas Comodore User y
-Zzap!64 donde le comparaban con la película The
-Rocky Horror Picture Show.
-8 9 Otras reseñas le
-comparaban con cintas como Psicosis, Friday the 13th,
-The Texas Chain Saw Massacre, The Addams Family y
-Scooby-Doo.
-8 9 10 Keith Farrell, de la revista
-COMPUTE!’s Gazette, menciona la similitud de
-Maniac Mansion con las películas, particularmente el
-uso de escenas para “agregar información o urgencia”, alabando también el alto nivel de detalle en la escritura,
-los gráficos y la animación: “cada uno de los
-adolescentes se desarrolla completamente, con
-características y vestuario que muestran enteramente su
-personalidad”. El editor Orson Scott Card elogió el
-humor del juego, la narración cinematográfica y la
-ausencia de violencia, llamándolo “un convincente
-buen juego” y evidenciando que Lucasfilm ayudaba “a
-hacer videojuegos con narración artística”.
-Lucasfilm concibió la idea de una adaptación a
-televisión, que compraría The Family Channel en 1990.
-El programa era una colaboración entre Lucasfilm, The
-Family Channel y Atlantis Films y contaba con Eugene Levy como líder de guionistas y Joe Flaherty
-como el Doctor Fred. Esta era una comedia situacional que salió al aire tras el lanzamiento del videojuego
-al mercado. Fue emitida en YTV en Canadá y en The Family Channel en Estados Unidos. Parcialmente
-basada en el videojuego, el show se enfocaba en la vida de la familia de Edison. En retrospectiva, Gilbert
-comentó que la premisa del programa cambió gradualmente durante la producción a algo totalmente
-diferente a la trama original del videojuego. Tras su lanzamiento, el programa fue bien recibido por la
-crítica; la revista Time lo nombró como uno de los mejores nuevos programas de televisión de 1990. En
-1993 LucasArts publicó la secuela, que recibió el nombre de "Day of the Tentacle" o "Día del Tentáculo",
-donde era posible jugar a Maniac Mansion si se encontraba el lugar del juego donde estaba oculto.
-En 2004, un grupo de fanes crearon una versión llamado Maniac Mansion Deluxe, que arrancaba en
-Windows y estaba hecho con AGS. Se colorearon nuevamente todos los escenarios a 256 colores y se
-añadió música extraída de la secuela oficial. El juego tuvo algunos bugs que fueron subsanados a base de
-actualizaciones. El grupo alemán Edison Interactive está desarrollando una versión freeware con el
-nombre "La Noche del Meteoro" (Night of the Meteor)11 con gráficos similares a "Day of the Tentacle"
-que incluirá nuevos puzles, más diálogos y música que el juego original.
-En 2023 en Argentina, se estrenó "Mansión Maniática, una parodia musical de Pablo Flores Torres",
-musical que parodiaba el arco principal del videojuego.
-
-Guía completa de Maniac Mansion
-Solución
-Abrir Índice
-Paso a paso
-
-INICIO
-Selecciona a Dave y llévale hasta el felpudo que hay delante de la puerta de la casa, mira debajo y encontrarás la llave que te permite entrar.
-Una vez dentro dirígete a la biblioteca y encientde la luz, puede que encontrar el interruptor te resulte un poco complicado (para ello utiliza "Que Es").
-Una vez encendida la luz.
-Ve al extremo derecho de la librería y abre el panel suelto.
-Descubrirás una cinta de cassette.
-Vuelve al salón principal, en la entrada.
-Sube las escaleras hasta la habitación de la pintura, coge la fruta de cera y el aguarrás.
-Deja de momento a Dave y selecciona a Syd.
-Guíale al interior de la casa y ve a la cocina, coge la linterna, la lata de Pepsi y las pilas de la nevera.
-Dirígete, después, a través del comedor hasta el cuarto que sirve de pequeño almacén.
-Coge las bebidas de frutas que encontrarás aquí.
-Seguidamente dirígete hasta donde dejaste a Dave y dale todas las bebidas que tenga Syd.
-Selecciona a Dave, otra vez, y ve a la puerta de seguridad que hay subiendo las escaleras.
-Entra y camina hacia la derecha hasta que encuentres unas escaleras que van a otra planta.
-Súbelas y ve hacia la izquierda hasta que te encuentres con un tentáculo hambriento.
-Ofrécele la cera de fruta y las bebidas de frutas, y te permitirá pasar.
-Sigue caminando hacia la izquierda, sube por las escaleras que te encontrarás, abre la primera puerta y sube por la escalera que hay en la pared a la izquierda.
-En esta habitación coge el disco que está en la estantería y la llave amarilla, esta última está detras del altavoz de la derecha.
-Baja por la escalera, sal de la habitación y entra por la cuarta puerta.
-Dentro encontrarás un "HUNK-O-MATIC MACHINE", úsala dos veces y crecerá la fuerza del personaje, después entra en el bañi que hay a la derecha.
-Coge la esponja, baja las escaleras hasta la primera planta, y entra en la habitación musical.
-Coloca el disco en el tocadiscos y ponlo en marcha, pon el cassette en la grabadora, y pulsa el botón de reproducir seguido por el botón de grabar.
-Una vez que la música se termine apaga los dos aparatos y recoge la cinta, vuelve al cuarto de estar y abre la cabina de la radio que está en lo alto.
-Reproduce la cinta en el reproductor y la lámpara se romperá dándote otra llave.
-En algún momento del juego aparecerá un cartero en la puerta que dejará un paquete en el buzón.
-Antes de hacer nada, lleva a los personajes que tienes dentro de la casa a habitaciones seguras donde no puedan ser vistos por Ed cuando éste vaya a abrir la puerta.
-Michael debería estar aún fuera de la casa, así que cuando suene el timbre de la puerta, llévale rápidamente a coger el paquete postal.
-Bien, ahora tienes el paquete, pero ¿Qué puedes hacer con él?, es fácil, ve a la habitación de Ed y dale el paquete, de esta forma acabas de hacer un nuevo amigo.
-Utilizando a Dave, ve al salón por donde entraste a la casa y empuja la gárgola de la derecha para que se abra la puerta que está al lado derecho.
-Selecciona a Syd y llévale a la puerta que se acaba de abrir, otra vez, deberás de buscar el interruptor de la luz para ver lo que haces.
-Da la luz y coge la llave.
-Ve ahcia la izquierda hasta que llegues a la caja de fusibles con llave.
-Abandona el sótano y ve a la habitación del almacén ( Ya deberías ser amigo de Ed).
-Mueve a Dave fuera de la casa y examina el arbusto que hay a ña derecha de las escaleras, coge el carrete sin revelar.
-Camina hacia el arbusto de la izquierda y haciendo uso de tu gran fuerza abre la reja y ve debajo de la casa.
-Busca hasta que encuentres una rejilla en el techo y quédate ahí debajo, a continuación cambiate a Syd.
-Coge el tarro e intenta coger el revelador de carretes.
-Dsafortunadamente éste se caerá y se derramará por la rejilla.
-Tan pronto como esto ocurra, cambia a Dave y usa la esponja para secar el charco de fluido revelador que ha caído a través de la reja.
-Vuelve a Syd y abre la puerta de fuera con la llave de plata, sal fuera y llena el tarro vacío con agua.
-Selecciona a Dave y anda hacia la derecha, abre la válvula del agua.
-Utiliza a Syd y métete en el estanque, coge la radio y la llave ardiente.
-Sal fuera.
-Haz que Dave cierre la válvula y vuelva al salón.
-Ahora manda a Syd y a Dave fuera de la puerta del garaje, aquí haz que Dave abra la puerta gracias a su increíble fuerza, después que Syd abra el maetero del coche con la llave amarilla y coja las herramientas, hecho ésto llévalos a la escalera principal.
-En este momento deberías tener a todo el grupo junto, en la escalera del salón.
-Ahora el plan es el siguiente: dale a Michael el film sin revelar y la esponja, y llévale al segundo piso.
-Allí debería haber una puerta an algú lado de la pared de atrás, entra por ahí, enciende la luz y revela el carrete utilizando el equipo que hay en esta habitación.
-Una vez que tengas las fotos ve al piso de arriba y espera a Ed en su habitación.
-Cuando Ed aparezca, dale las fotos.
-Ahora asegurate que Dave tiene (y si no lo tiene, que se lo dé otro compañero) el aguarrás, el tarro con el agua del estanque, la lata de Pepsi, la linterna y la radio.
-Llévale al piso donde está Michael, y una vez allí a la habitación del fondo a la derecha, en esta habitación examina la pintura que hay en la pared.
-Usa el aguarrás para quitar la mancha y, sorpres, aparecerá una puerta secreta.
-Ahora cambia a Syd y llévalo también al último piso, pero asegúrate que lleve la llave oxidada.
-Llévale a la habitación de Ed y abre la hucha en forma de cerdito.
-Coge el hamster y espera a que Ed, seriamente disgustado, llegue y te lleve a la mazmorra de la casa.
-Con Syd bloqueado, cámbiate a Michel y coge el dinero que está tirado, el hamster y la tarjeta llave.
-Ed volverá, así que dale el hamster para apaciguarle y vete hasta donde está Dave.
-Dale el dinero y espera fuera de la puerta.
-Vuelve otra vez a Syd, haz que escape de la mazmorra usando la llave oxidada y llévale al piso de arriba, donde está toda la acción, hasta que se encuentre con Michael, entonces entra por la puerta hasta la habitación de Edna, la cual te capturará.
-Mientras ésta lleva a Syd a la mazmorra, coge a Michael, entra en la habitación y coge la llave de la mesilla de noche, sube por la escalera y enciende la luz para encontrarte en una habitacion con una pintura.
-Abre la pintura y encontrarás una caja fuerte.
-Vuelve a controlar a Dave, entra por la puerta secreta y haz que suba por la escalera, luego abre la radio para coger las pilas que te servirán para la linterna.
-Retorna a Syd y vuélvete a escapar de la misma manera que antes, tras o cual dirígete a la caja de fusibles y apaga las luces.
-Usando a Dave enciende la linterna (asegúrate de apagar las pilas), y corta los cables con las herramientas.
-Ahora cámbiate a Syd y vuelve a conectar la electricidad.
-Controla a Dave, baja por la escalera y encontrarás una bonita planta carnívora.
-Echala al agua del estanque para que crezca, momento en el que intentará comerte.
-Dala la Pepsi para que se pare.
-Trepa por la plante y entra en el observatorio, allí echa la moneda en la caja para las monedas, pulsa ek botón derecho dos veces y mira a través del telescopio para ver la combinación de la caja fuerte.
-Cambia el control a Michael y utiliza la combinación que has descubierto, para abrir la caja fuerte.
-Dentro debe de haber un sobre que cogerás, acto seguido baja por la escalera para encontrarte con la adorable Edna.
-Sal de la mazmorra y ve a la habitación de videojuegos.
-Coge la llave pequeña y el sobre de Michael, ábrelo.
-Ya tienes una moneda para jugar al juego de los meteoritos.
-Aparecerá una lista de récords, anota el mayor de todos.
-Ahora cámbiate a Michael y dale todo a Dave.
-Lleva a Dave a la habitación de Edna, donde será capturado.
-Cuando estés en la mazmorra coge a Syd y que le dé todo a Dave.
-Haz que Dave abra los ccandados que hay en la puerta del laboratorio secreto, ahora es cuando debes de utilizar el récord de la máquina de videojuegos para abrir la cerradura de combinación.
-Deja que Ed se las entienda con el tentáculo y ve al encuentro de Doc, el cual ha activado un mecanismo de auto-destrucción, lo que signigica que tienes dos minutos para llevar a cabo lo siguiente: Abre la puerta que estaba cerrada y coge el traje anti-radiación que encontrarás allí.
-Usa la tarjeta llave en la puerta de la derecha y entra en la habitación donde se encuentra el meteorito.
-Apaga la energía del meteorito y Doc y compañía se quedarán sin la influencia del meteorito sobre ellos.
-Coge el meteorito, llévaki ak garaje e introducelo en el maletero del coche.
-Utiliza la llave amarilla para arrancar el arrancar el coche.
-Enciende el motor del misil y.
-.
-.
-.
-Selecciona a Dave y llévale hasta el felpudo que hay delante de la puerta de la casa, mira debajo y encontrarás la llave que te permite entrar.
-Una vez dentro dirígete a la biblioteca y encientde la luz, puede que encontrar el interruptor te resulte un poco complicado (para ello utiliza "Que Es").
-Una vez encendida la luz.
-Ve al extremo derecho de la librería y abre el panel suelto.
-Descubrirás una cinta de cassette.
-Vuelve al salón principal, en la entrada.
-Sube las escaleras hasta la habitación de la pintura, coge la fruta de cera y el aguarrás.
-Deja de momento a Dave y selecciona a Syd.
-Guíale al interior de la casa y ve a la cocina, coge la linterna, la lata de Pepsi y las pilas de la nevera.
-Dirígete, después, a través del comedor hasta el cuarto que sirve de pequeño almacén.
-Coge las bebidas de frutas que encontrarás aquí.
-Seguidamente dirígete hasta donde dejaste a Dave y dale todas las bebidas que tenga Syd.
-Selecciona a Dave, otra vez, y ve a la puerta de seguridad que hay subiendo las escaleras.
-Entra y camina hacia la derecha hasta que encuentres unas escaleras que van a otra planta.
-Súbelas y ve hacia la izquierda hasta que te encuentres con un tentáculo hambriento.
-Ofrécele la cera de fruta y las bebidas de frutas, y te permitirá pasar.
-Sigue caminando hacia la izquierda, sube por las escaleras que te encontrarás, abre la primera puerta y sube por la escalera que hay en la pared a la izquierda.
-En esta habitación coge el disco que está en la estantería y la llave amarilla, esta última está detras del altavoz de la derecha.
-Baja por la escalera, sal de la habitación y entra por la cuarta puerta.
-Dentro encontrarás un "HUNK-O-MATIC MACHINE", úsala dos veces y crecerá la fuerza del personaje, después entra en el bañi que hay a la derecha.
-Coge la esponja, baja las escaleras hasta la primera planta, y entra en la habitación musical.
-Coloca el disco en el tocadiscos y ponlo en marcha, pon el cassette en la grabadora, y pulsa el botón de reproducir seguido por el botón de grabar.
-Una vez que la música se termine apaga los dos aparatos y recoge la cinta, vuelve al cuarto de estar y abre la cabina de la radio que está en lo alto.
-Reproduce la cinta en el reproductor y la lámpara se romperá dándote otra llave.
-En algún momento del juego aparecerá un cartero en la puerta que dejará un paquete en el buzón.
-Antes de hacer nada, lleva a los personajes que tienes dentro de la casa a habitaciones seguras donde no puedan ser vistos por Ed cuando éste vaya a abrir la puerta.
-Michael debería estar aún fuera de la casa, así que cuando suene el timbre de la puerta, llévale rápidamente a coger el paquete postal.
-Bien, ahora tienes el paquete, pero ¿Qué puedes hacer con él?, es fácil, ve a la habitación de Ed y dale el paquete, de esta forma acabas de hacer un nuevo amigo.
-Utilizando a Dave, ve al salón por donde entraste a la casa y empuja la gárgola de la derecha para que se abra la puerta que está al lado derecho.
-Selecciona a Syd y llévale a la puerta que se acaba de abrir, otra vez, deberás de buscar el interruptor de la luz para ver lo que haces.
-Da la luz y coge la llave.
-Ve ahcia la izquierda hasta que llegues a la caja de fusibles con llave.
-Abandona el sótano y ve a la habitación del almacén ( Ya deberías ser amigo de Ed).
-Mueve a Dave fuera de la casa y examina el arbusto que hay a ña derecha de las escaleras, coge el carrete sin revelar.
-Camina hacia el arbusto de la izquierda y haciendo uso de tu gran fuerza abre la reja y ve debajo de la casa.
-Busca hasta que encuentres una rejilla en el techo y quédate ahí debajo, a continuación cambiate a Syd.
-Coge el tarro e intenta coger el revelador de carretes.
-Dsafortunadamente éste se caerá y se derramará por la rejilla.
-Tan pronto como esto ocurra, cambia a Dave y usa la esponja para secar el charco de fluido revelador que ha caído a través de la reja.
-Vuelve a Syd y abre la puerta de fuera con la llave de plata, sal fuera y llena el tarro vacío con agua.
-Selecciona a Dave y anda hacia la derecha, abre la válvula del agua.
-Utiliza a Syd y métete en el estanque, coge la radio y la llave ardiente.
-Sal fuera.
-Haz que Dave cierre la válvula y vuelva al salón.
-Ahora manda a Syd y a Dave fuera de la puerta del garaje, aquí haz que Dave abra la puerta gracias a su increíble fuerza, después que Syd abra el maetero del coche con la llave amarilla y coja las herramientas, hecho ésto llévalos a la escalera principal.
-En este momento deberías tener a todo el grupo junto, en la escalera del salón.
-Ahora el plan es el siguiente: dale a Michael el film sin revelar y la esponja, y llévale al segundo piso.
-Allí debería haber una puerta an algú lado de la pared de atrás, entra por ahí, enciende la luz y revela el carrete utilizando el equipo que hay en esta habitación.
-Una vez que tengas las fotos ve al piso de arriba y espera a Ed en su habitación.
-Cuando Ed aparezca, dale las fotos.
-Ahora asegurate que Dave tiene (y si no lo tiene, que se lo dé otro compañero) el aguarrás, el tarro con el agua del estanque, la lata de Pepsi, la linterna y la radio.
-Llévale al piso donde está Michael, y una vez allí a la habitación del fondo a la derecha, en esta habitación examina la pintura que hay en la pared.
-Usa el aguarrás para quitar la mancha y, sorpres, aparecerá una puerta secreta.
-Ahora cambia a Syd y llévalo también al último piso, pero asegúrate que lleve la llave oxidada.
-Llévale a la habitación de Ed y abre la hucha en forma de cerdito.
-Coge el hamster y espera a que Ed, seriamente disgustado, llegue y te lleve a la mazmorra de la casa.
-Con Syd bloqueado, cámbiate a Michel y coge el dinero que está tirado, el hamster y la tarjeta llave.
-Ed volverá, así que dale el hamster para apaciguarle y vete hasta donde está Dave.
-Dale el dinero y espera fuera de la puerta.
-Vuelve otra vez a Syd, haz que escape de la mazmorra usando la llave oxidada y llévale al piso de arriba, donde está toda la acción, hasta que se encuentre con Michael, entonces entra por la puerta hasta la habitación de Edna, la cual te capturará.
-Mientras ésta lleva a Syd a la mazmorra, coge a Michael, entra en la habitación y coge la llave de la mesilla de noche, sube por la escalera y enciende la luz para encontrarte en una habitacion con una pintura.
-Abre la pintura y encontrarás una caja fuerte.
-Vuelve a controlar a Dave, entra por la puerta secreta y haz que suba por la escalera, luego abre la radio para coger las pilas que te servirán para la linterna.
-Retorna a Syd y vuélvete a escapar de la misma manera que antes, tras o cual dirígete a la caja de fusibles y apaga las luces.
-Usando a Dave enciende la linterna (asegúrate de apagar las pilas), y corta los cables con las herramientas.
-Ahora cámbiate a Syd y vuelve a conectar la electricidad.
-Controla a Dave, baja por la escalera y encontrarás una bonita planta carnívora.
-Echala al agua del estanque para que crezca, momento en el que intentará comerte.
-Dala la Pepsi para que se pare.
-Trepa por la plante y entra en el observatorio, allí echa la moneda en la caja para las monedas, pulsa ek botón derecho dos veces y mira a través del telescopio para ver la combinación de la caja fuerte.
-Cambia el control a Michael y utiliza la combinación que has descubierto, para abrir la caja fuerte.
-Dentro debe de haber un sobre que cogerás, acto seguido baja por la escalera para encontrarte con la adorable Edna.
-Sal de la mazmorra y ve a la habitación de videojuegos.
-Coge la llave pequeña y el sobre de Michael, ábrelo.
-Ya tienes una moneda para jugar al juego de los meteoritos.
-Aparecerá una lista de récords, anota el mayor de todos.
-Ahora cámbiate a Michael y dale todo a Dave.
-Lleva a Dave a la habitación de Edna, donde será capturado.
-Cuando estés en la mazmorra coge a Syd y que le dé todo a Dave.
-Haz que Dave abra los ccandados que hay en la puerta del laboratorio secreto, ahora es cuando debes de utilizar el récord de la máquina de videojuegos para abrir la cerradura de combinación.
-Deja que Ed se las entienda con el tentáculo y ve al encuentro de Doc, el cual ha activado un mecanismo de auto-destrucción, lo que signigica que tienes dos minutos para llevar a cabo lo siguiente: Abre la puerta que estaba cerrada y coge el traje anti-radiación que encontrarás allí.
-Usa la tarjeta llave en la puerta de la derecha y entra en la habitación donde se encuentra el meteorito.
-Apaga la energía del meteorito y Doc y compañía se quedarán sin la influencia del meteorito sobre ellos.
-Coge el meteorito, llévaki ak garaje e introducelo en el maletero del coche.
-Utiliza la llave amarilla para arrancar el arrancar el coche.
-Enciende el motor del misil y.... disfruta de la secuencia final
-
-
+Glosario de proveedores
+Se inicia primera escritura de testeo del documento
+Productos en venta de proveedores:
+proveedor bremen: disco abrasivo, disco de corte, disco de diamante, disco flap, disco diamantado, disco de lija,
+mecha para taladro, broca para taladro, punta para taladro, tornillo, tuerca, arandela, grapa, clavo, cinta de
+medición, nivel, lápiz, marcador, cinta adhesiva, cinta aislante, guante, gafas de seguridad, casco de seguridad,
+mascarilla, protector auditivo, extensión para taladro, portabrocas, llave, llave inglesa, llave ajustable,
+destornillador, alicate, martillo, serrucho, cepillo de alambre, lima, sierra circular, sierra de sable, sierra de calar,
+lijadora, taladro, compresor de aire, pistola de aire comprimido, herramienta neumática
+MARCAS Bremen: Bremen, buloneria,
+DIA ENTREGA Bremen: Martes o Jueves
+Monto minimo Bremen: $ 100000
+Tiempo preparacion Bremen: 48 hs
+contacto Bremen: nombre Javier,
+proveedor BTA BARBUY: bocallaves, bocallaves de impacto, vibrador de concreto, vibrador de hormigon,
+aerografo, amoladora de banco, aparejo, arenador, aspiradora, bidon para combustible, bomba manual, bomba
+electrica, bomba interpump, calefactor, cepillo alambre, cepillo rotativo, combinada carpinteria, combinada
+p/metal, compresor, conector italiano, cortadora de cesped, cuchara albañil, cuentalitros, desmalezadora, disco
+diamantado, disco sierra circular, electrobomba, fresadora de pie, generador, grupo compresor, herramienta
+neumatica, hidrolavadora, hoyadora, instrumento medicion, malacate manual, máscara, micrometro,
+motobomba, motor explosion, motosierra, perforadora, pincel, pistola, roscadora peine, roscadora de caño,
+secador aire, sierra, soldadora, soplador aspirador recolector, tanque, terraja peine, torno, tubo espiralado,
+MARCAS BTA BARBUY: BTA, crossmaster, dowen pagio, barovo,
+DIA ENTREGA BTA BARBUY: coordinar envio
+contacto BTA Barbuy: nombre Dario, grupo de whatsapp “Barbuy”
+proveedor morano: extractor filtro tipo correa, extractor filtro tipo fuelle, vibrador de concreto, vibrador de
+hormigon, grasera,
+MARCAS morano: Morano, Vulcano,
+DIA ENTREGA Morano: a coordinar
+contacto Morano: nombre Hector,
+proveedor distribulon: tornillo, arandelas planas, tuercas, tirafondo
+MARCAS distribulon: tornillo generico
+DIA ENTREGA distribulon: a coordinar
+contacto distribulon: nombre Dario, grupo de whatsapp “Distribulon”
+https://api.whatsapp.com/send/?phone=5491161161970
+https://api.whatsapp.com/send/?phone=5491149708863
+proveedor sangalo: tornillo, arandelas planas, tuercas, tirafondo
+MARCAS sangalo: tornillo generico
+DIA ENTREGA sangalo: a coordinar
+contacto sangalo: nombre Bruno,
+proveedor elumiled: componentes informaticos, electronica
+MARCAS elumiled: intel
+DIA ENTREGA elumiled: coordinar envio por correo
+contacto elumiled: nombre elumiled,
+proveedor spada: remache, tanza, picaporte, manija biselada, manija ministerio, varilla roscada,
+MARCAS spada: remache, tanza, picaporte, manija biselada, manija ministerio, varilla roscada, marcas spada:
+nacional, abrasol, accesorios patricio, aceitex, alex-patricio, alymo, ambar, antartida, ardor, arean, ars-plastic,
+barbero, bladi, bubigom, carborundum, carbiz, calabro, candados 606, capdevilla, canton, ceramicruz, chayto,
+clavos de regla, corfamados, cortamax, cortrifil, corvex, crecchio, dacalor, dag, diamante, distrifer, damalu,
+doble a, duke, durox, el abuelo, el mari, elvar, eslingas destapa caño, ese tres, evel, extrapol, ezeta, ezio dell´avo,
+f.3, f.b., fama, fercas, ferrimex, foco, forja quintana, fortex, g.v., g.b., gherardi, grillon, grv, guarani, hernanplast, herrajes tapia, huala, ituzaino, k-10, la esperanza, la hacendosa, lavasola, lin, llusa, luque, l y l, martinez
+bello, machete, max, mc pin, medio giro, metalurgica f.g., mharka, mocar, moises, mosquetones, multimaxi,
+optimo, paint roller, perfecto, plasticos el parque, politem, promisur, pulverizadores dorrego, racort, resorplast,
+rosarpin, roa, rog, royco, sabatino, sabelcort, santoro, sanogas, scogar, seguritex, sifolimp, sin par, soberana, sol
+plast, santa juana, sumet, taco latex, teflon, tecnocom, tensil, tecnotex, tres matungos, toriano, toth, tres
+puntos, tricolor, vali, vitalgas, yunque, z.h., acoples rapidos, aligas, allpro, anemi, assisit, barbero, barval
+ignifugo, bercar, biassoni, bil-vex, biozen, biro, bisagras, bison, brilaqua, britex, cables acero, cabos guatambu,
+cadenas ancla, calabro cepillos, camillo, candados 505, canple, cantos melaminicos, carborundum, carpo,
+casildense, cauchet, celestal, cintas peligro, cl, c-led, clipper, comet, corko a pedido, coyote, cristales sold, dago,
+damalu, diamantec, diluvio, dipafer (candados), dixon, dowel mechas, duke, dupont, teflon, dur, el parque,
+eskilstuna, eureka, extrapol c-h, fargo, femucal, fercas, fiore botin de seguridad, fischer, flexibles, for track, forja
+cl, fortex, fratachos, gali, gamax, gan-mar, gassmann, gherardi, gran presion, grua guantes de latex, grv,
+guantes de cuero, guantes tejidos, hb- / belcer, helios, hernanplas, herramar, hilados esperanza, huala, hunter,
+izaje, jacobs, kateha, kent, l & l, lin, llusa, lupum, m.a.f.o, machete, mascardi, matarat, matri, mayerot, mazzuca
+azzurra, mecanobra, megam, membrana, mharka, microgas, mor-escalera aluminio, motormech, mozart, mp,
+mustad, myg, navegante, neike, norton, nudo, oneto, optimo, paranetti, perrotta, peter, pinas, plasticos san
+francisco, plastimet, plastimet, pop-argenrap, precintos, presernol, prive, prospray, q-alquiera, racor, rapifix,
+ravat, ret-sor, roa, rolls, roscalin, royco, s.k.f. dormer, sabatino, sanogass, santa-juana, santoro, saylens,
+seguritex, sin-par, sipar aceros, siruma, sola, solutronic, splendor, steelpro, t.m.i, t.m.l.h, taco-latex, tacsa,
+tecnibol coberplast, tecnocom, tecnomatric, tecnopar, tek bond, thompson, tia, torniquetes, toth, tramontina,
+tres matungos, unifix, vallorbe, vara,
+DIA ENTREGA spada: coordinar envio
+contacto spada: nombre Ricardo,
+proveedor fedar: terminal, resortes,
+MARCAS fedar: fedar
+DIA ENTREGA fedar: Lunes
+contacto fedar: nombre Sergio,
+https://api.whatsapp.com/send/?phone=5491125035335
+https://api.whatsapp.com/send/?phone=5491130034996
+https://api.whatsapp.com/send/?phone=5491140496231
+https://api.whatsapp.com/send/?phone=5491130675080
+proveedor Casiraghi: caño estructural, caño redondo, perfil angulo, chapa,
+MARCAS Casiraghi: acindar
+DIA ENTREGA Casiraghi: coordinar envio
+contacto Casiraghi: nombre Santiago,
+proveedor Navarro: caño estructural, caño redondo, perfil angulo, chapa,
+MARCAS Navarro: acindar, navarro
+DIA ENTREGA Navarro: coordinar envio
+contacto Navarro: Diego Morgue
+proveedor hierros gutierrez: caño estructural, caño redondo, perfil angulo, chapa,
+MARCAS hierros gutierrez: acindar
+DIA ENTREGA hierros gutierrez: coordinar envio
+contacto hierros gutierrez: nombre Hierros Gutierrez,
+proveedor Centro Sider: caño estructural, caño redondo, perfil angulo, chapa,
+MARCAS Centro Sider: acindar
+DIA ENTREGA Centro Sider: coordinar envio
+contacto Centro Sider: nombre Horacio Martinez,
+proveedor tubocenter: caño estructural, caño redondo, perfil angulo, chapa,
+MARCAS tubocenter: acindar
+DIA ENTREGA tubocenter: coordinar envio
+contacto tubocenter: nombre tubocenter,
+proveedor Ferrocenter: caño estructural, caño redondo, perfil angulo, chapa,
+MARCAS Ferrocenter: acindar
+DIA ENTREGA Ferrocenter: coordinar envio
+contacto Ferrocenter: nombre Ferrocenter,
+proveedor RealHome: caño estructural, caño redondo, perfil angulo, chapa,
+MARCAS RealHome: acindar
+DIA ENTREGA RealHome: coordinar envio
+contacto RealHome: nombre RealHome,
+proveedor Hierros Casanova: caño estructural, caño redondo, perfil angulo, chapa,
+MARCAS Hierros Casanova: acindar
+DIA ENTREGA Hierros Casanova: coordinar envio
+contacto Hierros Casanova: nombre Hierros Casanova,
+proveedor Hierros Aguero: caño estructural, caño redondo, perfil angulo, chapa,
+MARCAS Hierros Aguero: acindar
+DIA ENTREGA Hierros Aguero: coordinar envio
+contacto Hierros Aguero: nombre Hierros Aguero,
+proveedor Hierros Nacho: caño estructural, caño redondo, perfil angulo, chapa,
+https://api.whatsapp.com/send/?phone=5491128898142
+dmorguen@jnavarro.com.ar
+https://api.whatsapp.com/send/?phone=5491168197979
+https://api.whatsapp.com/send/?phone=5491167217911
+https://api.whatsapp.com/send/?phone=5491133059655
+https://api.whatsapp.com/send/?phone=5491132177878
+https://api.whatsapp.com/send/?phone=5491136022060
+https://api.whatsapp.com/send/?phone=5491138533355
+https://api.whatsapp.com/send/?phone=5491127214455
+MARCAS Hierros Nacho: acindar
+DIA ENTREGA Hierros Nacho: coordinar envio
+contacto Hierros Nacho: nombre Hierros Nacho,
+/
+proveedor Curia: caño estructural, caño redondo, perfil angulo, chapa,
+MARCAS Curia: acindar
+DIA ENTREGA Curia: coordinar envio
+contacto Curia: nombre Gaston,
+proveedor bluetools: alambre, aparejo, bidón, broca, cadena, caja herramienta, calefacción, camping, cancamo,
+cinta, clavo, construcción en seco, consumible para soldadura, cortador, cortadora cerámica, destornillador,
+disco, embalaje, equipo de pintar, equipo para lubricación, escalera, eslabón, estantería, exhibidor, fijación,
+gavetero, gorilla grip, grampa, grillete, guardacabo, herraje, herramienta automotriz, herramienta, herramienta
+de mano, linterna, llave allen, malacate, manguera, máscara, mecha, mosquetón, organizador, polietileno,
+precinto, prensacable, punta, rafia, repuesto, señalización, sierra, tanza, tejido, tensor, zorra
+MARCAS Bluetools: afix, argenclor, barovo, black and decker, bondhus, campo elite, dewalt, duroll, ezeta, ford,
+generico, giantop, gloss, knipex, kushiro, manuli, miyawa, mor, polietilenos mallas y tejidos, rausan, stanley,
+tolsen, tramontina, udovo, wokin, evel
+DIA ENTREGA bluetools: coordinar envio
+contacto BlueTools: nombre Lucas,
+proveedor ALAUPA: Abrazadera, aceite, accesorio para amoladora, accesorio compresor, accesorio herramienta
+neumática, accesorio para taladro, amoladora angular, amoladora de banco, amoladora neumática, anteojo de
+seguridad, antiparra, aparato manual y eléctrico, aspiradora industrial, batea lava piezas, bomba centrífuga,
+bordeadora a explosión, bordeadora eléctrica, bulonería, cadena, candado, calzado de seguridad, cargador de
+batería, cepillo de acero, cinturón lumbar, compresor, cortadora de césped, crique hidráulico, disco abrasivo,
+disco diamantado, disco para sierra, elemento de seguridad, engrasadora neumática, equipo de oxicorte,
+equipo de autógena, equipo de pintar, guante de todo tipo, grasa, hidrolavadora, mandril y llave, martillo,
+martillo electro neumático, mecha de acero rápido, morsa, pegamento, pinza porta electrodo, pistola de pintar,
+prensa hidráulica, prensa y sargento, protector facial, protector auditivo, ropa de trabajo, remachadora, rueda,
+sierra circular, sensible, soldadora eléctrica, taladro manual, taladro de banco, válvula reguladora de presión,
+zorra manual, anillo de seguridad seeger, arandela de suplemento, arandela biselada, arandela estrella,
+arandela plana, arandela grower, barra para chaveta, bulón cabeza redonda cuello cuadrado, bulón hexagonal
+G5, bulón hexagonal 8.8, bulón hexagonal 10.9, candado, bulón para automotor, chaveta partida, espárrago,
+espina elástica, tirafondo, tornillo allen cabeza cilíndrica, tornillo allen sin cabeza, tornillo fix, tornillo para
+madera, tornillo parker, tornillo punta mecha, tuerca hexagonal, tuerca castillo, tuerca ciega, tuerca de ruedas,
+varilla roscada
+MARCAS Alaupa: Alaupa
+DIA ENTREGA Alaupa: coordinar envio
+ferreteria alaupa: nombre alaupa,
+proveedor HEFER: Dobladora de Hierro Regulable con Palanca, Dobladora de Hierro Regulable sin Palanca, Tiza
+Blanca Caja x unidades, Dobladora de Hierro Fija Liviana, Pala Hoyera Movil, Bonete Corderito Accesorio LustraLijadora, Bonete Corderito Acc Taladro, Maza para Albañil, Horquilla 4 Puas Cabo Corto
+MARCAS Hefer: Hefer, LyL
+DIA ENTREGA Hefer: coordinar envio
+https://api.whatsapp.com/send/?phone=5491139057433
+https://api.whatsapp.com/send/?phone=5491170307200
+https://api.whatsapp.com/send/?phone=5491178312594
+https://api.whatsapp.com/send/?phone=5491163927603
+contacto Hefer: nombre Hefer,
+proveedor CAME: gancho percha, gancho perchero, ESCUADRAS K CON PESTAÑAS, SOPORTE PITUTOS PARA
+ESTANTE, CORREDERAS TELESCOPICAS, CORREDERA Z, BISAGRAS CODO O, ESCUADRAS CON ALA,
+MARCAS Came: Came
+contacto Came:nombre Came,
+proveedor REALHOME JBRS: Metalurgia, hierro, perfiles, planchuela hierro, malla hierro,
+MARCAS Realhome JBRS: Realhome, JBRS
+contacto Realhome JBRS: nombre JBRS,
+proveedor BAUKRAFT: Placas de yeso, placa cementicia, cantonera, perfil cielorraso desmontable travesaño,
+perfil cielorraso desmontable larguero, perfil cielorraso desmontable perimetral, lana de vidrio, aislante
+acustico
+MARCAS Baukfraft: Knauf, Barbieri,
+DIA ENTREGA Baukraft: coordinar envio
+contacto Baukraft: grupo de whatsapp “BAUKFRAFT”
+proveedor MADERWIL: aserradero, melamina, aislante, membrana hidrofuga, tablas madera,
+MARCAS Maderwil: Maderwil
+DIA ENTREGA Maderwil: coordinar envio
+contacto Maderwil: nombre Maderwil,
+proveedor carber: abertura, vidrieria,
+MARCAS carber: carber
+DIA ENTREGA carber: coordinar envio
+contacto carber: nombre carber,
+proveedor hudson cristal: abertura, vidrieria, espejo
+MARCAS hudson cristal: hudsoncristal
+DIA ENTREGA hudson cristal: coordinar envio
+contacto hudson cristal: nombre Mabel,
+proveedor vidrieria sur: vidrieria, espejo
+MARCAS vidrieria sur: vidrieriasur
+DIA ENTREGA vidrieria sur: coordinar envio
+contacto vidrieria sur: nombre vidrieriasur,
+proveedor iturria: tarugo, pinza, cinta aisladora, amoladora, mecha, fresa, broca, taladro, atornillador, mandril,
+MARCAS Iturria: Einhell, Bosch, 3M, Bahco, Dremel, Driven, Karcher, Loctite, Philips Automotive, Esab, Fischer,
+Schneider, Skil, Stanley, Freplast, ZBM, Energizer, Ledvance, Plas Chamois, MasterLock, Irimo, Ezeta, Penetrit,
+DIA ENTREGA iturria: coordinar envio
+contacto Iturria: nombre Juan Pablo,
+proveedor electropereira: electricidad, lampara, disyuntor, termica, pistola pintar, destornillador, llave crique,
+bocallave, flexometro, alicate, pistola riego, disco diamantado, mecha, arco sierra,
+https://api.whatsapp.com/send/?phone=5491153436014
+https://api.whatsapp.com/send/?phone=5491123424058
+https://api.whatsapp.com/send/?phone=5491136022060
+https://api.whatsapp.com/send/?phone=5491160455741
+https://api.whatsapp.com/send/?phone=5491132013409
+https://api.whatsapp.com/send/?phone=5491150565405
+https://api.whatsapp.com/send/?phone=5491128394500
+https://api.whatsapp.com/send/?phone=5491167633567
+MARCAS electropereira: 9 de Julio, Abons, Agriplas, Aligas, Antena, Arce, Argenjab, Asc, Ayan, Balder, Bmb,
+Commax, Compton, Conextube, Corilux, Cosmos, E.S.A, Elece, Elent, Elibet, Energizer, Epuyen, Exultt, Eyde,
+Fibosa, Foco, F.S., Gen Rod, Helleman, Ilga, Imsa, Jeluz, KALOP, KH, LFG, Luber, Lumilagro, MAVI, Mayva, Merak,
+Mota, NTH, Osram, Percan Plast, Petri, Philips, Plastimet, Polinam, Probattery, Randon, Reflex, Richi, Ridru, San
+Justo, Scame, Schafer, Schneider, Senlis, Sica, Taad, Tableplast, Tacsa, Tartaglia, TBCIN, Teclastar, Tecnocom,
+Tendedero, Top, Tortuga, Tubio, TXC, Vesuvio, Vini Tape, Zelta, ABB
+DIA ENTREGA electropereira: Viernes o Sabados por medio
+contacto Electropereira: nombre Gaston, grupo de whatsapp “Electropereira”
+proveedor PAPIERTTEI:
+MARCAS PAPIERTTEI: bosch, indumag, irimo, litton, md, osram, raybestos, skf, spicer, thompson, valeo, sachs,
+dormer, delphi, trw, fast chemical, norton, hellermann tyton, vonder, tierod, tekbond, luk, dolz, hyundai, ina,
+hella, apret, gamisol, ajec, ledvance, drive+, tecfil, gates, milwaukee
+DIA ENTREGA Papierttei: sin definir
+contacto Papierttei: nombre Fernando, +54 9 11 2157-1810,
+proveedor CAPTA: placa alto impacto,
+MARCAS CAPTA: alto impacto
+DIA ENTREGA CAPTA: sin definir
+contacto CAPTA: nombre Capta,
+proveedor CASA LEON: electrodos, cinta metrica, matafuego, tubo oxigeno, cepillo rizado, cepillo trenzado,
+cepillo manual, cepillo copa trenzado, cepillo con eje, cepillo de acero, cristal soldadura, cristal protector, pico de
+loro, pinza presion, pinza soldador, llave T, llave torx, destornillador, mangueras, manguera espiralada, llave
+cruz, llave rueda, cortadora sensitiva, soldadora, tijera de podar, porta cuchillas, corta perno, prensa tipo g,
+prensa tipo f, prensa g, prensa f, morsa de mesa, morsa de banco, base giratoria de morsa, morsa plana, FALTA
+COMPLETAR
+MARCAS CASA LEON: EVEL, LUIS PASQUINELLI (NORBCO-DRAGO), ACOPLAMIENTOS TUPAC, CEPILLOS FPL,
+BARCELO, RUCCI, MANGUERAS AUSEPLAST, RASELLI, ALEBA, TIJERAS CORTRIFIL - HUALA, BARBERO S.A.,
+METALURGICA SA-MA HNOS, MHAR, DIMANTEC, CANDAMIO S.A, CANE, TERRAJA, MACHETE, CIZALLAS ML,
+FORJA QUINTANA, CONARCO, HIDRAULICOS COSTA, DELBRE, CER, CORTADORAS DE PASTO PETRI, ARGENTEC,
+ALCARDUPLEX, MITUTOYO, DANILUX, NIPLO, EZETA, TIROLYT, KLEE, MOTORMECH, CADENAS EL ABROJAL,
+ABRASIVOS ARGENTINOS DOBLE A, GAN MAR, MULTIWIDA, CHUBUT, PINZAS HELICTOR, LIGA S.R.L., NIPLO,
+CAJAS METALICAS LARA, BEMAR, RUEDAS SHS, CANTAMESA HERRAMIENTAS S.R.L, H.& G., MANDRILES AR, BAW,
+OSEPYAN, SANOGAS, HERCAS, ROPAL, ROBLEDO, REMACHE RERAR, RIVECCIO, PARCHES Y ACCESORIOS T.G,
+PLASTIRRABIT, PEX, CENTER TOOLS, SABATINO, SAVICAR, SIN-PAR, URANGA, BRUNIDORES MH, CORMET,
+TORIANO, VESUBIO, FENOGLIO Y CAPELLO, GHERARDI, RICO, PERFECTO, STIHL, PALADINO, ACINDAR,
+DIAMANTE, LEALI, CALABRO, RERAR, SKILL, SOLDADORAS CONARCO,
+DIA ENTREGA CASA LEON: sin definir
+contacto CASA LEON: nombre CasaLeon,
+—-------------------
+https://api.whatsapp.com/send/?phone=549112157
+1810
+https://api.whatsapp.com/send/?phone=5491134176862
+https://api.whatsapp.com/send/?phone=5491128898741
+POR COMPLETAR
+proveedor BULONFER: articulos
+MARCAS BULONFER: Fischer, Salkor, Bosch,
+Dia entrega BULONFER: segun dia de entrega del expreso
+Monto minimo BULONFER: $ 137000 + iva
+Tiempo preparacion BULONFER: 3 dias a partir de fecha facturacion
+contacto BULONFER: nombre Bulonfer,
+proveedor KALYDON: amoladora,
+MARCAS KALYDON: Dewalt,
+contacto KALYDON: nombre Daniel Russo, grupo de whatsapp “KLD Kalydon”
+proveedor COMODO: Herramientas, maquinas,
+MARCAS COMODO: Arrow, Barbero, Biassoni, Black & Decker, Bosch, DAF, Dewalt, Dremel, Escaltech, Evel, Ezeta,
+Finisterre, Goldblatt, Karcher, Makita, Navegante, Nebraska, Nober, Py, Ranger, Sideral, Sika, Skil, Solyon, Stanley,
+Swisstech, Tecnocom, Tyrolit, Uranga, WorkPro,
+contacto COMODO: nombre Distrib Comodo, grupo de whatsapp “COMODO”
+proveedor SAN MARTIN: buje reduccion epoxi,
+MARCAS SAN MARTIN:
+DIA ENTREGA SAN MARTIN: sin definir
+contacto SAN MARTIN: nombre Daniel Russo, grupo de whatsapp “KLD Kalydon”
+proveedor PALITO: sanitarios, plomeria,
+MARCAS PALITO: Ferrum,
+DIA ENTREGA PALITO: sin definir
+contacto Palito: nombre Palito,
+proveedor SIBON: sanitarios, plomeria, plomada, serrucho, pala punta, pala ancha, pala luna, metro, cinta
+metrica, mecha, mecha acero rapido, hoja sierra,
+MARCAS SIBON: ABRASIVOS ARG, ABRASOL, ACEITEX, ALIGAS, ANCLA, ANEMI, ARPEG, BARBERO, BARBIERI,
+BELCER (H-B), BIASSONI, BOLBORETA, CABOS, CALABRO, CALFOR, CARBIZ, CELESTAL, COMPANIA 606, CORVEX,
+CRECCHIO, DIAMANTEX, DOBLE A, EL ABUELO, EL ESCUERZO, EL ROBLE, EVEL, EXTRAPOL, EZETA, F G
+METALURGICA, FERCAS, FORTEX, GAN-MAR, GHERARDI, GIBER, HER BRON, HORUS, HUALA, HURON, LA
+HACENDOSA, LLUSA, MAYVA, MOISES, NABAIS, NAVEGANTE, NEIKE, NUDO, ONWARD, PAZ, PEX, PINAS, PLASTI
+MET, PLASTIRRABIT, PRIVE, RERAR, ROPAL, SABATINO, SAN CAYETANO, SANOGASS, SANTA JUANA, SCOGAR, SINPAR, TA-CO-LATEX, TECNOCOM, TOTH, TRES PUNTOS, TRIAL, VIALRO, VOSS 2000,
+DIA ENTREGA SIBON: sin definir
+contacto SIBON: nombre Miguel,
+proveedor PROTEC: herramientas manuales, linga, bidon,
+MARCAS PROTEC: AION, AKAI ENERGY, ALIGAS, ANTHAY, ARGENRAP, BAHCO, BARBERO, BELLOTA, BONDHUS,
+BOSCH, BTS, CABLE DE ACERO NACIONAL, CLIPPER, COLEMAN, DOBLE A, DANCAN, DELTA PLUS, DOGO, DOLAR,
+DORMER, DREMEL, DUKE, CARBORUNDUM, DURACELL, EL ABUELO, ENERGIZER, ESLINGAR, EVEL, EXH,
+FANAQUIMICA, FPL, FIJACIONES PY, GLOSS, GRUNDFOS, IPH, IRIMO, JRH, KISWEL, LABOR, STANLEY, MAPA,
+https://api.whatsapp.com/send/?phone=5492494305447
+https://api.whatsapp.com/send/?phone=5492216783840
+https://api.whatsapp.com/send/?phone=5492494305447
+MASUA, 3M, NAKAN, PAPAIZ, PERFECTO, PITTS, POLITEX, PRAMET, PRIVE, RAPIFIX, RAYOVAC, COLORIN, ROA,
+RYOBI, SEGURIDAD IND., SKIL, STAYER, STARRETT, TAWAK, TECNOCOM, TEK BOND, TEYBO, TOOLMEN, TRV
+ELECTRONICS, TYROLIT, VTB, VULCANO
+DIA ENTREGA PROTEC: sin definir
+contacto PROTEC: nombre Maria Jose,
+—-------------------
+Marcas de proveedores:
+marcas Honda Quilmes: Honda
+—-------------------
+Dias de entrega de proveedores:
+DACROCE: Martes y Viernes
+COMODO: Lunes
+Simbolo: Jueves
+La Hacendosa: Jueves
+Colormet: Jueves
+Balber: Martes
+IronScrew: Martes
+Monto minimo IRONSCREW:
+DPS De Pascale: Lunes
+Trabex: Lunes
+Protex: Jueves
+—-------------------
+Nombre de contacto y numero telefonico
+contacto Simbolo: nombre Pablo,
+contacto La Hacendosa: nombre Pablo,
+contacto Colormet: nombre Pablo,
+contacto Trabex: nombre Jorge,
+contacto boncor: selene,
+https://api.whatsapp.com/send/?phone=549112452-7371
+https://api.whatsapp.com/send/?phone=5491122617835
+https://api.whatsapp.com/send/?phone=5491122617835
+https://api.whatsapp.com/send/?phone=5491122617835
+https://api.whatsapp.com/send/?phone=5491151855161
+https://api.whatsapp.com/send/?phone=5491134298901
