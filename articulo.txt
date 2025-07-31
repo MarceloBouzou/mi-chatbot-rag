@@ -15,8 +15,8 @@ En Nexus Fitness, no solo te ofrecemos máquinas, te ofrecemos una transformaci�
 - **Equipamiento de Vanguardia:** Invertimos constantemente en las mejores máquinas del mercado para garantizar que entrenes de forma segura, cómoda y eficiente.
 - **Resultados Comprobados:** Nuestro método integral, que combina entrenamiento, seguimiento y soporte motivacional, está diseñado para que veas y sientas los resultados que buscas.
 
-### SERVICIOS PRINCIPALES
-En Nexus Fitness te ofrecemos todo lo que necesitas para un entrenamiento completo y variado.
+### SERVICIOS PRINCIPALES Y OBJETIVOS ESPECÍFICOS
+En Nexus Fitness te ofrecemos todo lo que necesitas para un entrenamiento completo. Diseñamos rutinas y planes específicos para todo tipo de objetivos: pérdida de peso, ganancia de masa muscular, tonificación muscular (aumento de glúteos, abdomen plano, etc.), preparación para competiciones como maratones o carreras, y la mejora de la salud general. Nuestros servicios incluyen:
 - Entrenamiento Personalizado
 - Clases Grupales
 - Asesoramiento Nutricional
@@ -37,6 +37,14 @@ El complemento perfecto para tu entrenamiento. Nuestros nutricionistas pueden di
 
 ## Evaluación Inicial y Plan de Inicio (¡Ideal para Principiantes!)
 ¿Nunca has pisado un gimnasio? ¡No te preocupes! Este es tu lugar. Todos nuestros planes incluyen una evaluación inicial con un entrenador que medirá tu punto de partida y te enseñará a usar las máquinas principales. Te entregamos una rutina base para tus primeras 4-6 semanas para que te sientas seguro/a y empieces a ver progreso desde el principio.
+
+### APP EXCLUSIVA "NEXUS GO"
+¡Lleva el gimnasio en tu bolsillo! Al inscribirte, obtienes acceso a nuestra app exclusiva para miembros "Nexus Go", donde podrás:
+- ✅ Reservar tu lugar en todas las clases grupales.
+- 🏋️‍♂️ Ver tu rutina personalizada cargada por tu entrenador.
+- 💬 Chatear directamente con tu coach para resolver dudas.
+- 📈 Seguir tu progreso, registrar tus pesos y ver tus avances.
+- 📅 Recibir notificaciones y enterarte de todas las novedades.
 
 ### MÁQUINAS Y EQUIPAMIENTO
 Contamos con equipamiento de primer nivel, distribuido en zonas especializadas para que aproveches al máximo tu rutina.
@@ -64,29 +72,50 @@ Nuestra oferta más completa. Tienes acceso a todos los servicios para diseñar 
 Nunca es tarde para moverse. Ofrecemos clases de gimnasia suave, ejercicios de movilidad y equilibrio, y rutinas de fuerza de bajo impacto, siempre supervisadas por un profesional. El objetivo es mejorar la calidad de vida, la autonomía y la vitalidad.
 
 ### PLANES Y PRECIOS (Ejemplos en ARS)
-¡Tenemos un plan perfecto para ti! Todos incluyen acceso a las áreas de musculación y cardio.
+¡Tenemos un plan perfecto para ti! Todos incluyen acceso a las áreas de musculación y cardio y a nuestra app Nexus Go.
 - **PLAN NEXUS:** Acceso libre a sala de musculación y cardio. Precio: $38.500 ARS/mes.
 - **PLAN TEAM:** Acceso libre a musculación/cardio + 8 clases grupales al mes. Precio: $45.900 ARS/mes.
 - **PLAN TOTAL:** ¡Acceso ILIMITADO a todo! Musculación, cardio y todas las clases grupales que quieras. Incluye 2 pases de invitado al mes. Precio: $54.000 ARS/mes.
 - **PASE DIARIO:** ¿Quieres probar un día? ¡Claro! Precio: $9.000 ARS.
 *(Precios de ejemplo, sujetos a cambios. Consulta por planes trimestrales y semestrales con descuento)*
 
+### ¿CÓMO ME INSCRIBO Y QUÉ FORMAS DE PAGO ACEPTAN?
+¡Empezar es muy fácil! Podés anotarte directamente en nuestra recepción o, si lo prefieres, podés pre-inscribirte a través de nuestra página web y finalizar el pago en el gym.
+Aceptamos una gran variedad de medios de pago:
+- 💳 Tarjetas de débito y crédito (¡Consultá por cuotas sin interés!).
+- 💵 Efectivo.
+- 🏦 Transferencia bancaria.
+- 📲 Mercado Pago (QR en recepción).
+
 ### PROMOCIÓN DE BIENVENIDA / PASE DE PRUEBA
 ¡Queremos que nos conozcas! Te regalamos un **PASE DE DÍA COMPLETO** para que vengas, pruebes una clase, uses las instalaciones y hables con nuestros entrenadores, ¡totalmente gratis y sin compromiso! ¿Te gustaría que te reservemos tu pase?
 
+### DIRECCIÓN Y CONTACTO
+- 📍 **Dirección:** Nos encontramos en Av. SiempreFit 1234, barrio de Palermo, Ciudad de Buenos Aires.
+- 📱 **WhatsApp:** Podés escribirnos o llamarnos al +54 9 11 1234-5678 para una atención más rápida.
+- 📧 **Email:** Para consultas generales, escribinos a contacto@nexusfitness.com.
+- 🗺️ **Cómo llegar:** Estamos a 3 cuadras de la estación de subte "Salud" de la Línea D. ¡Una ubicación súper accesible!
+
 ### INSTALACIONES Y COMODIDADES ADICIONALES
-- Amplios vestuarios con duchas individuales.
+- Amplios vestuarios con duchas individuales y agua caliente todo el día.
 - Lockers de uso diario para que guardes tus pertenencias de forma segura (solo necesitas traer tu candado).
-- Wi-Fi de alta velocidad en todo el gimnasio.
-- Zona de relax y socialización.
-- Venta de bebidas frías, batidos de proteínas y snacks saludables.
+- Wi-Fi de alta velocidad gratuito en todo el gimnasio.
+- Zona de relax y socialización para que recuperes energías.
+- Venta de bebidas frías, batidos de proteínas y snacks saludables en nuestra recepción.
+- **Accesibilidad:** Contamos con rampa de acceso para personas con movilidad reducida y nuestros entrenadores están capacitados para adaptar rutinas. ¡Consultanos!
 
 ### PREGUNTAS FRECUENTES (FAQ)
-P: ¿Necesito tener experiencia previa para empezar?
+**P: ¿Necesito tener experiencia previa para empezar?**
 R: ¡Para nada! Nuestro Plan de Inicio está diseñado justamente para personas que recién comienzan. Un entrenador te guiará en todo.
 
-P: ¿Tengo que reservar las clases grupales?
-R: Sí, para garantizar tu lugar y una mejor experiencia, las clases se reservan fácilmente a través de nuestra app exclusiva para miembros.
+**P: ¿Tengo que reservar las clases grupales?**
+R: Sí, para garantizar tu lugar y una mejor experiencia, las clases se reservan fácilmente a través de nuestra app "Nexus Go".
 
-P: ¿Qué necesito llevar en mi primer día?
+**P: ¿Qué necesito llevar en mi primer día?**
 R: Solo necesitas ropa deportiva cómoda, zapatillas, una botella de agua y una toalla pequeña. ¡Y muchas ganas! El resto lo ponemos nosotros.
+
+**P: ¿Puedo pausar mi membresía si me voy de vacaciones?**
+R: ¡Sí, claro! Entendemos que la vida pasa. Podés "congelar" tu plan hasta 15 días por trimestre avisando con 72 horas de antelación. Es ideal para vacaciones o si tenés que ausentarte por trabajo.
+
+**P: ¿Puedo traer un amigo a entrenar?**
+R: ¡Por supuesto! Nos encanta que compartas tu experiencia. Si tenés el PLAN TOTAL, contás con 2 pases de invitado por mes. Si no, tu amigo puede solicitar su propio pase de prueba gratuito o abonar un pase diario.
