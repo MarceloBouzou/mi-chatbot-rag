@@ -5,7 +5,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 import dotenv from "dotenv";
 import { readTextFromFile } from './fileReader.js';
 
-// --- 1. CONFIGURACIÓN INICIAL ---
+// --- 1. CONFIGURACIÓN INICIAL --
 dotenv.config();
 const app = express();
 const port = process.env.PORT || 3000; // Usa el puerto de OnRender o 3000 en local
