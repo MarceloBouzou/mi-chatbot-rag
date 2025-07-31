@@ -1,172 +1,92 @@
-Glosario de proveedores
-proveedor bremen: disco abrasivo, disco de corte, disco de diamante, disco flap, disco diamantado, disco de lija, mecha para taladro, broca para taladro, punta para taladro, tornillo, tuerca, arandela, grapa, clavo, cinta de medición, nivel, lápiz, marcador, cinta adhesiva, cinta aislante, guante, gafas de seguridad, casco de seguridad, mascarilla, protector auditivo, extensión para taladro, portabrocas, llave, llave inglesa, llave ajustable, destornillador, alicate, martillo, serrucho, cepillo de alambre, lima, sierra circular, sierra de sable, sierra de calar, lijadora, taladro, compresor de aire, pistola de aire comprimido, herramienta neumática
-MARCAS Bremen: Bremen, buloneria,
-DIA ENTREGA Bremen: Martes o Jueves
-Monto minimo Bremen: $ 100000
-Tiempo preparacion Bremen: 48 hs
-contacto Bremen: nombre Javier,  https://api.whatsapp.com/send/?phone=5491161161970
+### GIMNASIO: Nexus Fitness
+### SLOGAN: Tu Conexión con el Bienestar.
 
-proveedor BTA BARBUY: bocallaves, bocallaves de impacto, vibrador de concreto, vibrador de hormigon, aerografo, amoladora de banco, aparejo, arenador, aspiradora, bidon para combustible, bomba manual, bomba electrica, bomba interpump, calefactor, cepillo alambre, cepillo rotativo, combinada carpinteria, combinada p/metal, compresor, conector italiano, cortadora de cesped, cuchara albañil, cuentalitros, desmalezadora, disco diamantado, disco sierra circular, electrobomba, fresadora de pie, generador, grupo compresor, herramienta neumatica, hidrolavadora, hoyadora, instrumento medicion, malacate manual, máscara, micrometro, motobomba, motor explosion, motosierra, perforadora, pincel, pistola, roscadora peine, roscadora de caño, secador aire, sierra, soldadora, soplador aspirador recolector, tanque, terraja peine, torno, tubo espiralado, 
-MARCAS BTA BARBUY: BTA, crossmaster, dowen pagio, barovo,
-DIA ENTREGA BTA BARBUY: coordinar envio
-contacto BTA Barbuy: nombre Dario, grupo de whatsapp “Barbuy”
+### BIENVENIDA AL CHATBOT
+- ¡Hola! 👋 Bienvenido/a a Nexus Fitness. Soy Nika, tu asistente virtual, y estoy aquí para ayudarte a conectar con tu mejor versión. ¿En qué puedo ayudarte hoy?
+- ¡Hey! Qué bueno verte por aquí. Estás en Nexus Fitness, el lugar donde tus metas de entrenamiento se hacen realidad. ¿Listo/a para empezar? ¡Pregúntame lo que quieras!
+- ¡Hola! Gracias por tu interés en Nexus Fitness. Estoy a tu disposición para darte toda la información sobre nuestros planes, clases y por qué somos la mejor opción en la zona. ¿Por dónde empezamos?
 
-proveedor morano: extractor filtro tipo correa, extractor filtro tipo fuelle, vibrador de concreto, vibrador de hormigon, grasera, 
-MARCAS morano: Morano, Vulcano,
-DIA ENTREGA Morano: a coordinar
-contacto Morano: nombre Hector, https://api.whatsapp.com/send/?phone=5491149708863
+### FILOSOFÍA Y PROPUESTA DE VALOR: ¿POR QUÉ NEXUS FITNESS?
+En Nexus Fitness, no solo te ofrecemos máquinas, te ofrecemos una transformación. Con más de 10 años de experiencia, hemos creado un espacio donde la comunidad, la atención personalizada y los resultados reales son los pilares. No eres solo un miembro más, eres parte de nuestra familia. Nuestro equipo de profesionales certificados se dedica a conocerte, entender tus objetivos y diseñar el camino perfecto para que los alcances, sintiéndote acompañado/a en cada paso. Aquí, tu éxito es nuestro éxito.
 
+### NUESTRA DIFERENCIA: PUNTOS CLAVE
+- **Atención 100% Personalizada:** Desde el día uno, te escuchamos. Realizamos una evaluación inicial para crear un plan a tu medida, adaptado a tus metas, experiencia y estilo de vida.
+- **Comunidad y Ambiente Único:** Creamos un espacio libre de juicios, lleno de energía positiva y compañerismo. Queremos que venir a entrenar sea el mejor momento de tu día.
+- **Equipamiento de Vanguardia:** Invertimos constantemente en las mejores máquinas del mercado para garantizar que entrenes de forma segura, cómoda y eficiente.
+- **Resultados Comprobados:** Nuestro método integral, que combina entrenamiento, seguimiento y soporte motivacional, está diseñado para que veas y sientas los resultados que buscas.
 
-proveedor distribulon: tornillo, arandelas planas, tuercas, tirafondo
-MARCAS distribulon: tornillo generico
-DIA ENTREGA distribulon: a coordinar
-contacto distribulon: nombre Dario, grupo de whatsapp “Distribulon”
+### SERVICIOS PRINCIPALES
+En Nexus Fitness te ofrecemos todo lo que necesitas para un entrenamiento completo y variado.
+- Entrenamiento Personalizado
+- Clases Grupales
+- Asesoramiento Nutricional
+- Evaluación Inicial y Plan de Inicio para principiantes
 
-proveedor sangalo: tornillo, arandelas planas, tuercas, tirafondo
-MARCAS sangalo: tornillo generico
-DIA ENTREGA sangalo: a coordinar
-contacto sangalo: nombre Bruno, https://api.whatsapp.com/send/?phone=5491125035335
+### DETALLE DE SERVICIOS
+## Entrenamiento Personalizado
+Si buscas un acompañamiento exclusivo y acelerar tus resultados, nuestro servicio de Entrenador Personal es ideal. Un profesional certificado diseñará un programa 100% para ti, te guiará en cada ejercicio para asegurar la técnica correcta y te mantendrá motivado/a para superar tus límites en cada sesión.
 
-proveedor elumiled: componentes informaticos, electronica
-MARCAS elumiled: intel
-DIA ENTREGA elumiled: coordinar envio por correo
-contacto elumiled: nombre elumiled, https://api.whatsapp.com/send/?phone=5491130034996
+## Clases Grupales
+¡Siente la energía del entrenamiento en equipo! Tenemos una grilla de horarios súper completa con opciones para todos.
+- **Alta Intensidad:** Spinning, HIIT, Funcional, Cross-Training. Ideales para quemar calorías, mejorar tu resistencia y llenarte de energía.
+- **Cuerpo y Mente:** Yoga, Pilates, Stretching. Perfectas para mejorar la flexibilidad, reducir el estrés, corregir la postura y encontrar el equilibrio.
+- **Baile y Diversión:** Clases de Ritmos y Zumba. ¡La forma más divertida de ponerte en forma, sin darte cuenta de que estás entrenando!
 
-proveedor spada: remache, tanza, picaporte, manija biselada, manija ministerio, varilla roscada, 
-MARCAS spada: remache, tanza, picaporte, manija biselada, manija ministerio, varilla roscada, marcas spada: nacional, abrasol, accesorios patricio, aceitex, alex-patricio, alymo, ambar, antartida, ardor, arean, ars-plastic, barbero, bladi, bubigom, carborundum, carbiz, calabro, candados 606, capdevilla, canton, ceramicruz, chayto, clavos de regla, corfamados, cortamax, cortrifil, corvex, crecchio, dacalor, dag, diamante, distrifer, damalu, doble a, duke, durox, el abuelo, el mari, elvar, eslingas destapa caño, ese tres, evel, extrapol, ezeta, ezio dell´avo, f.3, f.b., fama, fercas, ferrimex, foco, forja quintana, fortex, g.v., g.b., gherardi, grillon, grv, guarani, hernan-plast, herrajes tapia, huala, ituzaino, k-10, la esperanza, la hacendosa, lavasola, lin, llusa, luque, l y l, martinez bello, machete, max, mc pin, medio giro, metalurgica f.g., mharka, mocar, moises, mosquetones, multimaxi, optimo, paint roller, perfecto, plasticos el parque, politem, promisur, pulverizadores dorrego, racort, resorplast, rosarpin, roa, rog, royco, sabatino, sabelcort, santoro, sanogas, scogar, seguritex, sifolimp, sin par, soberana, sol plast, santa juana, sumet, taco latex, teflon, tecnocom, tensil, tecnotex, tres matungos, toriano, toth, tres puntos, tricolor, vali, vitalgas, yunque, z.h., acoples rapidos, aligas, allpro, anemi, assisit, barbero, barval ignifugo, bercar, biassoni, bil-vex, biozen, biro, bisagras, bison, brilaqua, britex, cables acero, cabos guatambu, cadenas ancla, calabro cepillos, camillo, candados 505, canple, cantos melaminicos, carborundum, carpo, casildense, cauchet, celestal, cintas peligro, cl, c-led, clipper, comet, corko a pedido, coyote, cristales sold, dago, damalu, diamantec, diluvio, dipafer (candados), dixon, dowel mechas, duke, dupont, teflon, dur, el parque, eskilstuna, eureka, extrapol c-h, fargo, femucal, fercas, fiore botin de seguridad, fischer, flexibles, for track, forja cl, fortex, fratachos, gali, gamax, gan-mar, gassmann, gherardi, gran presion, grua guantes de latex, grv, guantes de cuero, guantes tejidos, hb- / belcer, helios, hernanplas, herramar, hilados esperanza, huala, hunter, izaje, jacobs, kateha, kent, l & l, lin, llusa, lupum, m.a.f.o, machete, mascardi, matarat, matri, mayerot, mazzuca azzurra, mecanobra, megam, membrana, mharka, microgas, mor-escalera aluminio, motormech, mozart, mp, mustad, myg, navegante, neike, norton, nudo, oneto, optimo, paranetti, perrotta, peter, pinas, plasticos san francisco, plastimet, plastimet, pop-argenrap, precintos, presernol, prive, prospray, q-alquiera, racor, rapifix, ravat, ret-sor, roa, rolls, roscalin, royco, s.k.f. dormer, sabatino, sanogass, santa-juana, santoro, saylens, seguritex, sin-par, sipar aceros, siruma, sola, solutronic, splendor, steelpro, t.m.i, t.m.l.h, taco-latex, tacsa, tecnibol coberplast, tecnocom, tecnomatric, tecnopar, tek bond, thompson, tia, torniquetes, toth, tramontina, tres matungos, unifix, vallorbe, vara,
-DIA ENTREGA spada: coordinar envio
-contacto spada: nombre Ricardo, https://api.whatsapp.com/send/?phone=5491140496231
+## Asesoramiento Nutricional
+El complemento perfecto para tu entrenamiento. Nuestros nutricionistas pueden diseñar un plan de alimentación adaptado a tus objetivos, ya sea perder peso, ganar masa muscular o simplemente aprender a comer más saludable.
 
-proveedor fedar: terminal, resortes,
-MARCAS fedar: fedar
-DIA ENTREGA fedar: Lunes
-contacto fedar: nombre Sergio, https://api.whatsapp.com/send/?phone=5491130675080
+## Evaluación Inicial y Plan de Inicio (¡Ideal para Principiantes!)
+¿Nunca has pisado un gimnasio? ¡No te preocupes! Este es tu lugar. Todos nuestros planes incluyen una evaluación inicial con un entrenador que medirá tu punto de partida y te enseñará a usar las máquinas principales. Te entregamos una rutina base para tus primeras 4-6 semanas para que te sientas seguro/a y empieces a ver progreso desde el principio.
 
-proveedor Casiraghi: caño estructural, caño redondo, perfil angulo, chapa,
-MARCAS Casiraghi: acindar
-DIA ENTREGA Casiraghi: coordinar envio
-contacto Casiraghi: nombre Santiago, https://api.whatsapp.com/send/?phone=5491128898142
+### MÁQUINAS Y EQUIPAMIENTO
+Contamos con equipamiento de primer nivel, distribuido en zonas especializadas para que aproveches al máximo tu rutina.
+- **Zona Cardio:** Cintas para correr, bicicletas estáticas y de spinning, elípticos y remadoras de última generación para cuidar tu salud cardiovascular.
+- **Zona de Musculación:** Un amplio set de máquinas de carga selectiva para trabajar cada grupo muscular de forma aislada y segura. Además, una completa área de peso libre con mancuernas de 1 a 50 kg, barras olímpicas, discos, bancos de todo tipo y jaulas de potencia.
+- **Zona Funcional:** Un espacio versátil con césped sintético, trineo de empuje, battle ropes, kettlebells (pesas rusas), balones medicinales, cajones de salto y todo lo necesario para entrenamientos dinámicos y desafiantes.
 
-proveedor Navarro: caño estructural, caño redondo, perfil angulo, chapa,
-MARCAS Navarro: acindar, navarro
-DIA ENTREGA Navarro: coordinar envio
-contacto Navarro: Diego Morgue dmorguen@jnavarro.com.ar
+### HIGIENE Y MANTENIMIENTO
+Tu seguridad y comodidad son nuestra prioridad. Nuestras instalaciones se limpian y desinfectan rigurosamente varias veces al día. Contamos con estaciones de desinfección con alcohol en gel y papel a tu disposición en todas las áreas del gimnasio para la limpieza del equipamiento antes y después de cada uso.
 
-proveedor hierros gutierrez: caño estructural, caño redondo, perfil angulo, chapa,
-MARCAS hierros gutierrez: acindar
-DIA ENTREGA hierros gutierrez: coordinar envio
-contacto hierros gutierrez: nombre Hierros Gutierrez, https://api.whatsapp.com/send/?phone=5491168197979
+### HORARIOS DE ATENCIÓN
+¡Nos adaptamos a tu vida! Contamos con una de las franjas horarias más amplias de la ciudad para que no tengas excusas.
+- Lunes a Viernes: de 6:00 a 23:00 hs.
+- Sábados y Feriados: de 8:00 a 21:00 hs.
+- Domingos: Cerrado (¡el descanso también es parte del entrenamiento!).
 
-proveedor Centro Sider: caño estructural, caño redondo, perfil angulo, chapa,
-MARCAS Centro Sider: acindar
-DIA ENTREGA Centro Sider: coordinar envio
-contacto Centro Sider: nombre Horacio Martinez, https://api.whatsapp.com/send/?phone=5491167217911
+### PROGRAMAS SEGÚN LA EDAD
+## Jóvenes (14-17 años) - Programa "Energía Joven"
+Un programa diseñado para que los adolescentes desarrollen hábitos saludables de forma divertida y segura. Nos enfocamos en el entrenamiento con peso corporal, la técnica correcta de los ejercicios básicos y clases grupales dinámicas que fomentan la confianza y el trabajo en equipo.
 
-proveedor tubocenter: caño estructural, caño redondo, perfil angulo, chapa,
-MARCAS tubocenter: acindar
-DIA ENTREGA tubocenter: coordinar envio
-contacto tubocenter: nombre tubocenter, https://api.whatsapp.com/send/?phone=5491133059655
+## Adultos (18-59 años)
+Nuestra oferta más completa. Tienes acceso a todos los servicios para diseñar el plan que mejor se adapte a ti: ganancia de masa muscular, pérdida de grasa, preparación para una carrera, o simplemente mantener un estilo de vida activo y saludable.
 
-proveedor Ferrocenter: caño estructural, caño redondo, perfil angulo, chapa,
-MARCAS Ferrocenter: acindar
-DIA ENTREGA Ferrocenter: coordinar envio
-contacto Ferrocenter: nombre Ferrocenter, https://api.whatsapp.com/send/?phone=5491132177878
+## Adultos Mayores (60+ años) - Programa "Plenitud Activa"
+Nunca es tarde para moverse. Ofrecemos clases de gimnasia suave, ejercicios de movilidad y equilibrio, y rutinas de fuerza de bajo impacto, siempre supervisadas por un profesional. El objetivo es mejorar la calidad de vida, la autonomía y la vitalidad.
 
-proveedor RealHome: caño estructural, caño redondo, perfil angulo, chapa,
-MARCAS RealHome: acindar
-DIA ENTREGA RealHome: coordinar envio
-contacto RealHome: nombre RealHome, https://api.whatsapp.com/send/?phone=5491136022060
+### PLANES Y PRECIOS (Ejemplos en ARS)
+¡Tenemos un plan perfecto para ti! Todos incluyen acceso a las áreas de musculación y cardio.
+- **PLAN NEXUS:** Acceso libre a sala de musculación y cardio. Precio: $38.500 ARS/mes.
+- **PLAN TEAM:** Acceso libre a musculación/cardio + 8 clases grupales al mes. Precio: $45.900 ARS/mes.
+- **PLAN TOTAL:** ¡Acceso ILIMITADO a todo! Musculación, cardio y todas las clases grupales que quieras. Incluye 2 pases de invitado al mes. Precio: $54.000 ARS/mes.
+- **PASE DIARIO:** ¿Quieres probar un día? ¡Claro! Precio: $9.000 ARS.
+*(Precios de ejemplo, sujetos a cambios. Consulta por planes trimestrales y semestrales con descuento)*
 
-proveedor Hierros Casanova: caño estructural, caño redondo, perfil angulo, chapa,
-MARCAS Hierros Casanova: acindar
-DIA ENTREGA Hierros Casanova: coordinar envio
-contacto Hierros Casanova: nombre Hierros Casanova, https://api.whatsapp.com/send/?phone=5491138533355
+### PROMOCIÓN DE BIENVENIDA / PASE DE PRUEBA
+¡Queremos que nos conozcas! Te regalamos un **PASE DE DÍA COMPLETO** para que vengas, pruebes una clase, uses las instalaciones y hables con nuestros entrenadores, ¡totalmente gratis y sin compromiso! ¿Te gustaría que te reservemos tu pase?
 
-proveedor Hierros Aguero: caño estructural, caño redondo, perfil angulo, chapa,
-MARCAS Hierros Aguero: acindar
-DIA ENTREGA Hierros Aguero: coordinar envio
-contacto Hierros Aguero: nombre Hierros Aguero, https://api.whatsapp.com/send/?phone=5491127214455
+### INSTALACIONES Y COMODIDADES ADICIONALES
+- Amplios vestuarios con duchas individuales.
+- Lockers de uso diario para que guardes tus pertenencias de forma segura (solo necesitas traer tu candado).
+- Wi-Fi de alta velocidad en todo el gimnasio.
+- Zona de relax y socialización.
+- Venta de bebidas frías, batidos de proteínas y snacks saludables.
 
-proveedor Hierros Nacho: caño estructural, caño redondo, perfil angulo, chapa,
-MARCAS Hierros Nacho: acindar
-DIA ENTREGA Hierros Nacho: coordinar envio
-contacto Hierros Nacho: nombre Hierros Nacho, https://api.whatsapp.com/send/?phone=5491139057433
+### PREGUNTAS FRECUENTES (FAQ)
+P: ¿Necesito tener experiencia previa para empezar?
+R: ¡Para nada! Nuestro Plan de Inicio está diseñado justamente para personas que recién comienzan. Un entrenador te guiará en todo.
 
-proveedor Curia: caño estructural, caño redondo, perfil angulo, chapa,
-MARCAS Curia: acindar
-DIA ENTREGA Curia: coordinar envio
-contacto Curia: nombre Gaston, https://api.whatsapp.com/send/?phone=5491170307200
+P: ¿Tengo que reservar las clases grupales?
+R: Sí, para garantizar tu lugar y una mejor experiencia, las clases se reservan fácilmente a través de nuestra app exclusiva para miembros.
 
-proveedor bluetools: alambre, aparejo, bidón, broca, cadena, caja herramienta, calefacción, camping, cancamo, cinta, clavo, construcción en seco, consumible para soldadura, cortador, cortadora cerámica, destornillador, disco, embalaje, equipo de pintar, equipo para lubricación, escalera, eslabón, estantería, exhibidor, fijación, gavetero, gorilla grip, grampa, grillete, guardacabo, herraje, herramienta automotriz, herramienta, herramienta de mano, linterna, llave allen, malacate, manguera, máscara, mecha, mosquetón, organizador, polietileno, precinto, prensacable, punta, rafia, repuesto, señalización, sierra, tanza, tejido, tensor, zorra
-MARCAS Bluetools: afix, argenclor, barovo, black and decker, bondhus, campo elite, dewalt, duroll, ezeta, ford, generico, giantop, gloss, knipex, kushiro, manuli, miyawa, mor, polietilenos mallas y tejidos, rausan, stanley, tolsen, tramontina, udovo, wokin, evel
-DIA ENTREGA bluetools: coordinar envio
-contacto BlueTools: nombre Lucas, https://api.whatsapp.com/send/?phone=5491178312594
-
-proveedor ALAUPA: Abrazadera, aceite, accesorio para amoladora, accesorio compresor, accesorio herramienta neumática, accesorio para taladro, amoladora angular, amoladora de banco, amoladora neumática, anteojo de seguridad, antiparra, aparato manual y eléctrico, aspiradora industrial, batea lava piezas, bomba centrífuga, bordeadora a explosión, bordeadora eléctrica, bulonería, cadena, candado, calzado de seguridad, cargador de batería, cepillo de acero, cinturón lumbar, compresor, cortadora de césped, crique hidráulico, disco abrasivo, disco diamantado, disco para sierra, elemento de seguridad, engrasadora neumática, equipo de oxicorte, equipo de autógena, equipo de pintar, guante de todo tipo, grasa, hidrolavadora, mandril y llave, martillo, martillo electro neumático, mecha de acero rápido, morsa, pegamento, pinza porta electrodo, pistola de pintar, prensa hidráulica, prensa y sargento, protector facial, protector auditivo, ropa de trabajo, remachadora, rueda, sierra circular, sensible, soldadora eléctrica, taladro manual, taladro de banco, válvula reguladora de presión, zorra manual, anillo de seguridad seeger, arandela de suplemento, arandela biselada, arandela estrella, arandela plana, arandela grower, barra para chaveta, bulón cabeza redonda cuello cuadrado, bulón hexagonal G5, bulón hexagonal 8.8, bulón hexagonal 10.9, candado, bulón para automotor, chaveta partida, espárrago, espina elástica, tirafondo, tornillo allen cabeza cilíndrica, tornillo allen sin cabeza, tornillo fix, tornillo para madera, tornillo parker, tornillo punta mecha, tuerca hexagonal, tuerca castillo, tuerca ciega, tuerca de ruedas, varilla roscada
-MARCAS Alaupa: Alaupa
-DIA ENTREGA Alaupa: coordinar envio
-ferreteria alaupa: nombre alaupa, https://api.whatsapp.com/send/?phone=5491163927603
-
-proveedor HEFER: Dobladora de Hierro Regulable con Palanca, Dobladora de Hierro Regulable sin Palanca, Tiza Blanca Caja x unidades, Dobladora de Hierro Fija Liviana, Pala Hoyera Movil, Bonete Corderito Accesorio Lustra-Lijadora, Bonete Corderito Acc Taladro, Maza para Albañil, Horquilla 4 Puas Cabo Corto
-MARCAS Hefer: Hefer, LyL
-DIA ENTREGA Hefer: coordinar envio
-contacto Hefer: nombre Hefer,  https://api.whatsapp.com/send/?phone=5491153436014
-
-proveedor CAME: gancho percha, gancho perchero, ESCUADRAS K CON PESTAÑAS, SOPORTE PITUTOS PARA ESTANTE, CORREDERAS TELESCOPICAS, CORREDERA Z, BISAGRAS CODO O, ESCUADRAS CON ALA,
-MARCAS Came: Came
-contacto Came:nombre Came,  https://api.whatsapp.com/send/?phone=5491123424058
-
-proveedor REALHOME JBRS: Metalurgia, hierro, perfiles, planchuela hierro, malla hierro,
-MARCAS Realhome JBRS: Realhome, JBRS
-contacto Realhome JBRS: nombre JBRS,  https://api.whatsapp.com/send/?phone=5491136022060
-
-proveedor BAUKRAFT: Placas de yeso, placa cementicia, cantonera, perfil cielorraso desmontable travesaño, perfil cielorraso desmontable larguero, perfil cielorraso desmontable perimetral, lana de vidrio, aislante acustico
-MARCAS Baukfraft: Knauf, Barbieri,
-DIA ENTREGA Baukraft: coordinar envio
-contacto Baukraft: grupo de whatsapp “BAUKFRAFT”
-
-proveedor MADERWIL: aserradero, melamina, aislante, membrana hidrofuga, tablas madera,
-MARCAS Maderwil: Maderwil
-DIA ENTREGA Maderwil: coordinar envio
-contacto Maderwil: nombre Maderwil,  https://api.whatsapp.com/send/?phone=5491160455741
-
-proveedor carber: abertura, vidrieria,
-MARCAS carber: carber
-DIA ENTREGA carber: coordinar envio
-contacto carber: nombre carber,  https://api.whatsapp.com/send/?phone=5491132013409
-
-proveedor hudson cristal: abertura, vidrieria, espejo
-MARCAS hudson cristal: hudsoncristal
-DIA ENTREGA hudson cristal: coordinar envio
-contacto hudson cristal: nombre Mabel, https://api.whatsapp.com/send/?phone=5491150565405
-
-proveedor vidrieria sur: vidrieria, espejo
-MARCAS vidrieria sur: vidrieriasur
-DIA ENTREGA vidrieria sur: coordinar envio
-contacto vidrieria sur: nombre vidrieriasur,  https://api.whatsapp.com/send/?phone=5491128394500
-
-proveedor iturria: tarugo, pinza, cinta aisladora, amoladora, mecha, fresa, broca, taladro, atornillador, mandril,
-MARCAS Iturria: Einhell, Bosch, 3M, Bahco, Dremel, Driven, Karcher, Loctite, Philips Automotive, Esab, Fischer, Schneider, Skil, Stanley, Freplast, ZBM, Energizer, Ledvance, Plas Chamois, MasterLock, Irimo, Ezeta, Penetrit,
-DIA ENTREGA iturria: coordinar envio
-contacto Iturria: nombre Juan Pablo, https://api.whatsapp.com/send/?phone=5491167633567
-
-proveedor electropereira: electricidad, lampara, disyuntor, termica, pistola pintar, destornillador, llave crique, bocallave, flexometro, alicate, pistola riego, disco diamantado, mecha, arco sierra,
-MARCAS electropereira: 9 de Julio, Abons, Agriplas, Aligas, Antena, Arce, Argenjab, Asc, Ayan, Balder, Bmb, Commax, Compton, Conextube, Corilux, Cosmos, E.S.A, Elece, Elent, Elibet, Energizer, Epuyen, Exultt, Eyde, Fibosa, Foco, F.S., Gen Rod, Helleman, Ilga, Imsa, Jeluz, KALOP, KH, LFG, Luber, Lumilagro, MAVI, Mayva, Merak, Mota, NTH, Osram, Percan Plast, Petri, Philips, Plastimet, Polinam, Probattery, Randon, Reflex, Richi, Ridru, San Justo, Scame, Schafer, Schneider, Senlis, Sica, Taad, Tableplast, Tacsa, Tartaglia, TBCIN, Teclastar, Tecnocom, Tendedero, Top, Tortuga, Tubio, TXC, Vesuvio, Vini Tape, Zelta, ABB
-DIA ENTREGA electropereira: Viernes o Sabados por medio
-contacto Electropereira: nombre Gaston, grupo de whatsapp “Electropereira”
-
-proveedor PAPIERTTEI:
-MARCAS PAPIERTTEI: bosch, indumag, irimo, litton, md, osram, raybestos, skf, spicer, thompson, valeo, sachs, dormer, delphi, trw, fast chemical, norton, hellermann tyton, vonder, tierod, tekbond, luk, dolz, hyundai, ina, hella, apret, gamisol, ajec, ledvance, drive+, tecfil, gates, milwaukee
-DIA ENTREGA Papierttei: sin definir
-contacto Papierttei: nombre Fernando, +54 9 11 2157-1810, https://api.whatsapp.com/send/?phone=5491121571810
-
-proveedor CAPTA: placa alto impacto, 
-MARCAS CAPTA: alto impacto
-DIA ENTREGA CAPTA: sin definir
-contacto CAPTA: nombre Capta, https://api.whatsapp.com/send/?phone=5491134176862
-
-proveedor CASA LEON: electrodos, cinta metrica, matafuego, tubo oxigeno, cepillo rizado, cepillo trenzado, cepillo manual, cepillo copa trenzado, cepillo con eje, cepillo de acero, cristal soldadura, cristal protector, pico de loro, pinza presion, pinza soldador, llave T, llave torx, destornillador, mangueras, manguera espiralada, llave cruz, llave rueda, cortadora sensitiva, soldadora, tijera de podar, porta cuchillas, corta perno, prensa tipo g, prensa tipo f, prensa g, prensa f, morsa de mesa, morsa de banco, base giratoria de morsa, morsa plana, FALTA COMPLETAR
-MARCAS CASA LEON: EVEL, LUIS PASQUINELLI (NORBCO-DRAGO), ACOPLAMIENTOS TUPAC, CEPILLOS FPL, BARCELO, RUCCI, MANGUERAS AUSEPLAST, RASELLI, ALEBA, TIJERAS CORTRIFIL - HUALA, BARBERO S.A., METALURGICA SA-MA HNOS, MHAR, DIMANTEC, CANDAMIO S.A, CANE, TERRAJA, MACHETE, CIZALLAS ML, FORJA QUINTANA, CONARCO, HIDRAULICOS COSTA, DELBRE, CER, CORTADORAS DE PASTO PETRI, ARGENTEC, ALCARDUPLEX, MITUTOYO, DANILUX, NIPLO, EZETA, TIROLYT, KLEE, MOTORMECH, CADENAS EL ABROJAL, ABRASIVOS ARGENTINOS DOBLE A, GAN MAR, MULTIWIDA, CHUBUT, PINZAS HELICTOR, LIGA S.R.L., NIPLO, CAJAS METALICAS LARA, BEMAR, RUEDAS SHS, CANTAMESA HERRAMIENTAS S.R.L, H.& G., MANDRILES AR, BAW, OSEPYAN, SANOGAS, HERCAS, ROPAL, ROBLEDO, REMACHE RERAR, RIVECCIO, PARCHES Y ACCESORIOS T.G, PLASTIRRABIT, PEX, CENTER TOOLS, SABATINO, SAVICAR, SIN-PAR, URANGA, BRUNIDORES MH, CORMET, TORIANO, VESUBIO, FENOGLIO Y CAPELLO, GHERARDI, RICO, PERFECTO, STIHL, PALADINO, ACINDAR, DIAMANTE, LEALI, CALABRO, RERAR, SKILL, SOLDADORAS CONARCO,
-DIA ENTREGA CASA LEON: sin definir
-contacto CASA LEON: nombre CasaLeon, https://api.whatsapp.com/send/?phone=5491128898741
-
+P: ¿Qué necesito llevar en mi primer día?
+R: Solo necesitas ropa deportiva cómoda, zapatillas, una botella de agua y una toalla pequeña. ¡Y muchas ganas! El resto lo ponemos nosotros.
