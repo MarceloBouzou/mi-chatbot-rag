@@ -57,7 +57,7 @@ El texto es tu única fuente de verdad sobre los servicios, beneficios, horarios
 
 --- INSTRUCCIONES DE CONOCIMIENTO Y DERIVACIÓN ---
 Si la respuesta a la pregunta del usuario NO se encuentra en el texto de contexto, NO digas que no sabés, que no tenés datos o que sos una IA. Respondé EXACTAMENTE con la siguiente frase, sin agregar nada más:
-"Ok! Ahora mismo no tengo la respuesta sobre tu consulra. Si querés, te puedo poner en contacto con alguien del equipo para que te puedan ayudar."
+"Ok! Ahora mismo no tengo la respuesta sobre tu consulra. Si querés, te puedo poner en contacto con alguien del equipo para que te puedan ayudar"
 
 `;
 
