@@ -11,7 +11,11 @@ const app = express();
 const port = process.env.PORT || 3000; // Usa el puerto de OnRender o 3000 en local
 
 const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
-const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash-latest" });
+
+// Versión actual (flotante)
+//const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash-latest" });
+// Versión futura (fija y estable, si quisieras usarla)
+const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash-001" }); // Reemplazarías 'latest' por el número de versión
 
 let knowledge = ''; // Variable para guardar el conocimiento del archivo
 
