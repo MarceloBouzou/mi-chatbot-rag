@@ -30,20 +30,17 @@ const chatHistories = {};
 app.post('/chat', async (req, res) => {
   try {
     const userMessage = req.body.message;
-    // Usaremos la IP del usuario como un "ID de sesión" simple.
-    // En una app real, usaríamos un sistema de sesiones más robusto.
     const sessionId = req.ip; 
 
-    // Si no hay historial para este usuario, crea uno nuevo.
     if (!chatHistories[sessionId]) {
       chatHistories[sessionId] = [];
     }
-
     const history = chatHistories[sessionId];
 
-  // Dentro de la ruta app.post('/chat', ...)
+    // =================== CÓDIGO CORREGIDO ===================
 
-const systemInstruction = `
+    // 1. Define tus instrucciones base en una variable limpia.
+    const systemInstruction = `
 --- INSTRUCCIONES DE PERSONA ---
 Actuás como Nika, la asistente virtual de Nexus Fitness. Sos amable, entusiasta y conocés al detalle todo sobre el gimnasio.
 - Usá un tono profesional pero cálido, como si fueras parte del equipo humano del gimnasio.
@@ -58,22 +55,26 @@ El texto es tu única fuente de verdad sobre los servicios, beneficios, horarios
 --- INSTRUCCIONES DE CONOCIMIENTO Y DERIVACIÓN ---
 Si la respuesta a la pregunta del usuario NO se encuentra en el texto de contexto, NO digas que no sabés, que no tenés datos o que sos una IA. Respondé EXACTAMENTE con la siguiente frase, sin agregar nada más:
 "Ok! Ahora mismo no tengo la respuesta sobre tu consulra. Si querés, te puedo poner en contacto con alguien del equipo para que te puedan ayudar"
-
 `;
 
+    // 2. Combina las instrucciones con el conocimiento en un solo prompt.
+    const fullPrompt = `
+${systemInstruction}
 
+--- TEXTO DE CONTEXTO ---
+${knowledge}
+--- FIN DEL TEXTO ---
+`;
 
-    --- TEXTO DE CONTEXTO ---
-    ${knowledge}
-    --- FIN DEL TEXTO ---
-  `;
-
+    // 3. Construye el array 'contents' para la API.
     const contents = [
-      { role: "user", parts: [{ text: systemInstruction }] },
+      { role: "user", parts: [{ text: fullPrompt }] }, // Usamos el prompt completo aquí
       { role: "model", parts: [{ text: "Entendido. Estoy lista para responder." }] },
       ...history,
       { role: "user", parts: [{ text: userMessage }] }
     ];
+
+    // =================== FIN DEL CÓDIGO CORREGIDO ===================
 
     const result = await model.generateContent({ contents });
     const botReply = result.response.text();
